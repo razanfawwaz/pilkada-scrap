@@ -1,0 +1,104 @@
+[
+  {
+    "nama": "BOMBANA",
+    "id": 191514,
+    "kode": "7406",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUTON",
+    "id": 191512,
+    "kode": "7404",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUTON SELATAN",
+    "id": 191522,
+    "kode": "7415",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUTON TENGAH",
+    "id": 191521,
+    "kode": "7414",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUTON UTARA",
+    "id": 191517,
+    "kode": "7410",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOLAKA",
+    "id": 176256,
+    "kode": "7401",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOLAKA TIMUR",
+    "id": 191518,
+    "kode": "7411",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOLAKA UTARA",
+    "id": 191516,
+    "kode": "7408",
+    "tingkat": 2
+  },
+  {
+    "nama": "KONAWE",
+    "id": 191511,
+    "kode": "7402",
+    "tingkat": 2
+  },
+  {
+    "nama": "KONAWE KEPULAUAN",
+    "id": 191519,
+    "kode": "7412",
+    "tingkat": 2
+  },
+  {
+    "nama": "KONAWE SELATAN",
+    "id": 191513,
+    "kode": "7405",
+    "tingkat": 2
+  },
+  {
+    "nama": "KONAWE UTARA",
+    "id": 191510,
+    "kode": "7409",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BAU BAU",
+    "id": 191524,
+    "kode": "7472",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA KENDARI",
+    "id": 191523,
+    "kode": "7471",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUNA",
+    "id": 176825,
+    "kode": "7403",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUNA BARAT",
+    "id": 191520,
+    "kode": "7413",
+    "tingkat": 2
+  },
+  {
+    "nama": "WAKATOBI",
+    "id": 191515,
+    "kode": "7407",
+    "tingkat": 2
+  }
+]

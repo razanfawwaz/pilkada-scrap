@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000958": 10079,
+      "1000959": 21153,
+      "1000960": 14191,
+      "progres": {
+        "total": 190,
+        "persen": 100.0,
+        "progres": 190
+      }
+    },
+    "table": {
+      "532001": {
+        "psu": "Reguler",
+        "1000958": 3479,
+        "1000959": 7263,
+        "1000960": 7119,
+        "progres": {
+          "total": 72,
+          "persen": 100.0,
+          "progres": 72
+        },
+        "status_progress": true
+      },
+      "532002": {
+        "psu": "Reguler",
+        "1000958": 856,
+        "1000959": 2060,
+        "1000960": 1420,
+        "progres": {
+          "total": 20,
+          "persen": 100.0,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "532003": {
+        "psu": "Reguler",
+        "1000958": 898,
+        "1000959": 2440,
+        "1000960": 1345,
+        "progres": {
+          "total": 25,
+          "persen": 100.0,
+          "progres": 25
+        },
+        "status_progress": true
+      },
+      "532004": {
+        "psu": "Reguler",
+        "1000958": 609,
+        "1000959": 3629,
+        "1000960": 910,
+        "progres": {
+          "total": 23,
+          "persen": 100.0,
+          "progres": 23
+        },
+        "status_progress": true
+      },
+      "532005": {
+        "psu": "Reguler",
+        "1000958": 2695,
+        "1000959": 3852,
+        "1000960": 2430,
+        "progres": {
+          "total": 32,
+          "persen": 100.0,
+          "progres": 32
+        },
+        "status_progress": true
+      },
+      "532006": {
+        "psu": "Reguler",
+        "1000958": 1542,
+        "1000959": 1909,
+        "1000960": 967,
+        "progres": {
+          "total": 18,
+          "persen": 100.0,
+          "progres": 18
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 190,
+    "progres": 190
+  },
+  "ts": "2024-11-27 23:30:00"
+}

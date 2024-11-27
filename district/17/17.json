@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "BENGKULU SELATAN",
+    "id": 191235,
+    "kode": "1701",
+    "tingkat": 2
+  },
+  {
+    "nama": "BENGKULU TENGAH",
+    "id": 191243,
+    "kode": "1709",
+    "tingkat": 2
+  },
+  {
+    "nama": "BENGKULU UTARA",
+    "id": 191237,
+    "kode": "1703",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAUR",
+    "id": 191238,
+    "kode": "1704",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPAHIANG",
+    "id": 191242,
+    "kode": "1708",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BENGKULU",
+    "id": 191244,
+    "kode": "1771",
+    "tingkat": 2
+  },
+  {
+    "nama": "LEBONG",
+    "id": 191241,
+    "kode": "1707",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUKO MUKO",
+    "id": 191240,
+    "kode": "1706",
+    "tingkat": 2
+  },
+  {
+    "nama": "REJANG LEBONG",
+    "id": 191236,
+    "kode": "1702",
+    "tingkat": 2
+  },
+  {
+    "nama": "SELUMA",
+    "id": 191239,
+    "kode": "1705",
+    "tingkat": 2
+  }
+]

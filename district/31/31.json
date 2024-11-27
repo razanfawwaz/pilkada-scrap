@@ -1,0 +1,38 @@
+[
+  {
+    "nama": "KEPULAUAN SERIBU",
+    "id": 127558,
+    "kode": "3101",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAKARTA BARAT",
+    "id": 191267,
+    "kode": "3173",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAKARTA PUSAT",
+    "id": 191265,
+    "kode": "3171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAKARTA SELATAN",
+    "id": 191268,
+    "kode": "3174",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAKARTA TIMUR",
+    "id": 191269,
+    "kode": "3175",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAKARTA UTARA",
+    "id": 191266,
+    "kode": "3172",
+    "tingkat": 2
+  }
+]

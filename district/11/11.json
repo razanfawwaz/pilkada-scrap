@@ -1,0 +1,140 @@
+[
+  {
+    "nama": "ACEH BARAT",
+    "id": 191126,
+    "kode": "1105",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH BARAT DAYA",
+    "id": 191133,
+    "kode": "1112",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH BESAR",
+    "id": 191127,
+    "kode": "1106",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH JAYA",
+    "id": 191135,
+    "kode": "1114",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH SELATAN",
+    "id": 100055,
+    "kode": "1101",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH SINGKIL",
+    "id": 191131,
+    "kode": "1110",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH TAMIANG",
+    "id": 191137,
+    "kode": "1116",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH TENGAH",
+    "id": 191125,
+    "kode": "1104",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH TENGGARA",
+    "id": 191123,
+    "kode": "1102",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH TIMUR",
+    "id": 191124,
+    "kode": "1103",
+    "tingkat": 2
+  },
+  {
+    "nama": "ACEH UTARA",
+    "id": 191129,
+    "kode": "1108",
+    "tingkat": 2
+  },
+  {
+    "nama": "BENER MERIAH",
+    "id": 191138,
+    "kode": "1117",
+    "tingkat": 2
+  },
+  {
+    "nama": "BIREUEN",
+    "id": 191132,
+    "kode": "1111",
+    "tingkat": 2
+  },
+  {
+    "nama": "GAYO LUES",
+    "id": 191134,
+    "kode": "1113",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BANDA ACEH",
+    "id": 191140,
+    "kode": "1171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA LANGSA",
+    "id": 191143,
+    "kode": "1174",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA LHOKSEUMAWE",
+    "id": 191142,
+    "kode": "1173",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SABANG",
+    "id": 191141,
+    "kode": "1172",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SUBULUSSALAM",
+    "id": 191144,
+    "kode": "1175",
+    "tingkat": 2
+  },
+  {
+    "nama": "NAGAN RAYA",
+    "id": 191136,
+    "kode": "1115",
+    "tingkat": 2
+  },
+  {
+    "nama": "PIDIE",
+    "id": 191128,
+    "kode": "1107",
+    "tingkat": 2
+  },
+  {
+    "nama": "PIDIE JAYA",
+    "id": 191139,
+    "kode": "1118",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIMEULUE",
+    "id": 191130,
+    "kode": "1109",
+    "tingkat": 2
+  }
+]

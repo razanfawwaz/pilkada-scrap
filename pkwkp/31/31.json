@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000023": 1707956,
+      "1000024": 456370,
+      "1000025": 2171411,
+      "progres": {
+        "total": 14835,
+        "persen": 99.72,
+        "progres": 14794
+      }
+    },
+    "table": {
+      "3101": {
+        "psu": "Reguler",
+        "1000023": 6578,
+        "1000024": 653,
+        "1000025": 7456,
+        "progres": {
+          "total": 41,
+          "persen": 100.0,
+          "progres": 41
+        },
+        "status_progress": true
+      },
+      "3171": {
+        "psu": "Reguler",
+        "1000023": 151897,
+        "1000024": 44714,
+        "1000025": 219869,
+        "progres": {
+          "total": 1542,
+          "persen": 99.94,
+          "progres": 1541
+        },
+        "status_progress": true
+      },
+      "3172": {
+        "psu": "Reguler",
+        "1000023": 252869,
+        "1000024": 74637,
+        "1000025": 319022,
+        "progres": {
+          "total": 2386,
+          "persen": 98.87,
+          "progres": 2359
+        },
+        "status_progress": true
+      },
+      "3173": {
+        "psu": "Reguler",
+        "1000023": 386881,
+        "1000024": 109457,
+        "1000025": 500738,
+        "progres": {
+          "total": 3452,
+          "persen": 100.0,
+          "progres": 3452
+        },
+        "status_progress": true
+      },
+      "3174": {
+        "psu": "Reguler",
+        "1000023": 374132,
+        "1000024": 89974,
+        "1000025": 489160,
+        "progres": {
+          "total": 3270,
+          "persen": 99.6,
+          "progres": 3257
+        },
+        "status_progress": true
+      },
+      "3175": {
+        "psu": "Reguler",
+        "1000023": 535599,
+        "1000024": 136935,
+        "1000025": 635166,
+        "progres": {
+          "total": 4144,
+          "persen": 100.0,
+          "progres": 4144
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 14835,
+    "progres": 14794
+  },
+  "ts": "2024-11-28 01:00:00"
+}

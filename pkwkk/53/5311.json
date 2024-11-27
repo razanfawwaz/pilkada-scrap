@@ -1,0 +1,287 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000925": 49308,
+      "1000926": 20002,
+      "1000927": 58666,
+      "progres": {
+        "total": 507,
+        "persen": 88.36,
+        "progres": 448
+      }
+    },
+    "table": {
+      "531101": {
+        "psu": "Reguler",
+        "1000925": 6942,
+        "1000926": 2377,
+        "1000927": 9287,
+        "progres": {
+          "total": 57,
+          "persen": 96.49,
+          "progres": 55
+        },
+        "status_progress": true
+      },
+      "531102": {
+        "psu": "Reguler",
+        "1000925": 1036,
+        "1000926": 378,
+        "1000927": 1519,
+        "progres": {
+          "total": 15,
+          "persen": 80.0,
+          "progres": 12
+        },
+        "status_progress": true
+      },
+      "531103": {
+        "psu": "Reguler",
+        "1000925": 2353,
+        "1000926": 1019,
+        "1000927": 3671,
+        "progres": {
+          "total": 29,
+          "persen": 72.41,
+          "progres": 21
+        },
+        "status_progress": true
+      },
+      "531104": {
+        "psu": "Reguler",
+        "1000925": 2392,
+        "1000926": 346,
+        "1000927": 2312,
+        "progres": {
+          "total": 24,
+          "persen": 91.67,
+          "progres": 22
+        },
+        "status_progress": true
+      },
+      "531105": {
+        "psu": "Reguler",
+        "1000925": 2565,
+        "1000926": 178,
+        "1000927": 1933,
+        "progres": {
+          "total": 26,
+          "persen": 88.46,
+          "progres": 23
+        },
+        "status_progress": true
+      },
+      "531106": {
+        "psu": "Reguler",
+        "1000925": 660,
+        "1000926": 154,
+        "1000927": 672,
+        "progres": {
+          "total": 18,
+          "persen": 44.44,
+          "progres": 8
+        },
+        "status_progress": true
+      },
+      "531107": {
+        "psu": "Reguler",
+        "1000925": 4217,
+        "1000926": 2688,
+        "1000927": 3679,
+        "progres": {
+          "total": 33,
+          "persen": 100.0,
+          "progres": 33
+        },
+        "status_progress": true
+      },
+      "531108": {
+        "psu": "Reguler",
+        "1000925": 2799,
+        "1000926": 2325,
+        "1000927": 5550,
+        "progres": {
+          "total": 34,
+          "persen": 100.0,
+          "progres": 34
+        },
+        "status_progress": true
+      },
+      "531109": {
+        "psu": "Reguler",
+        "1000925": 1178,
+        "1000926": 373,
+        "1000927": 4046,
+        "progres": {
+          "total": 20,
+          "persen": 95.0,
+          "progres": 19
+        },
+        "status_progress": true
+      },
+      "531110": {
+        "psu": "Reguler",
+        "1000925": 2433,
+        "1000926": 1679,
+        "1000927": 3908,
+        "progres": {
+          "total": 27,
+          "persen": 100.0,
+          "progres": 27
+        },
+        "status_progress": true
+      },
+      "531111": {
+        "psu": "Reguler",
+        "1000925": 1343,
+        "1000926": 650,
+        "1000927": 2108,
+        "progres": {
+          "total": 18,
+          "persen": 83.33,
+          "progres": 15
+        },
+        "status_progress": true
+      },
+      "531112": {
+        "psu": "Reguler",
+        "1000925": 1352,
+        "1000926": 578,
+        "1000927": 1275,
+        "progres": {
+          "total": 13,
+          "persen": 100.0,
+          "progres": 13
+        },
+        "status_progress": true
+      },
+      "531113": {
+        "psu": "Reguler",
+        "1000925": 1959,
+        "1000926": 191,
+        "1000927": 1117,
+        "progres": {
+          "total": 19,
+          "persen": 68.42,
+          "progres": 13
+        },
+        "status_progress": true
+      },
+      "531114": {
+        "psu": "Reguler",
+        "1000925": 2276,
+        "1000926": 454,
+        "1000927": 2430,
+        "progres": {
+          "total": 20,
+          "persen": 100.0,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "531115": {
+        "psu": "Reguler",
+        "1000925": 1491,
+        "1000926": 96,
+        "1000927": 888,
+        "progres": {
+          "total": 17,
+          "persen": 76.47,
+          "progres": 13
+        },
+        "status_progress": true
+      },
+      "531116": {
+        "psu": "Reguler",
+        "1000925": 7212,
+        "1000926": 4035,
+        "1000927": 7083,
+        "progres": {
+          "total": 54,
+          "persen": 92.59,
+          "progres": 50
+        },
+        "status_progress": true
+      },
+      "531117": {
+        "psu": "Reguler",
+        "1000925": 1321,
+        "1000926": 197,
+        "1000927": 718,
+        "progres": {
+          "total": 10,
+          "persen": 100.0,
+          "progres": 10
+        },
+        "status_progress": true
+      },
+      "531118": {
+        "psu": "Reguler",
+        "1000925": 1353,
+        "1000926": 875,
+        "1000927": 892,
+        "progres": {
+          "total": 17,
+          "persen": 88.24,
+          "progres": 15
+        },
+        "status_progress": true
+      },
+      "531119": {
+        "psu": "Reguler",
+        "1000925": 896,
+        "1000926": 545,
+        "1000927": 1010,
+        "progres": {
+          "total": 9,
+          "persen": 100.0,
+          "progres": 9
+        },
+        "status_progress": true
+      },
+      "531120": {
+        "psu": "Reguler",
+        "1000925": 2026,
+        "1000926": 556,
+        "1000927": 3386,
+        "progres": {
+          "total": 23,
+          "persen": 91.3,
+          "progres": 21
+        },
+        "status_progress": true
+      },
+      "531121": {
+        "psu": "Reguler",
+        "1000925": 558,
+        "1000926": 139,
+        "1000927": 426,
+        "progres": {
+          "total": 14,
+          "persen": 50.0,
+          "progres": 7
+        },
+        "status_progress": true
+      },
+      "531122": {
+        "psu": "Reguler",
+        "1000925": 946,
+        "1000926": 169,
+        "1000927": 756,
+        "progres": {
+          "total": 10,
+          "persen": 80.0,
+          "progres": 8
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 507,
+    "progres": 448
+  },
+  "ts": "2024-11-28 00:45:00"
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "nama": "BANDUNG",
+    "id": 191272,
+    "kode": "3204",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANDUNG BARAT",
+    "id": 191285,
+    "kode": "3217",
+    "tingkat": 2
+  },
+  {
+    "nama": "BEKASI",
+    "id": 191284,
+    "kode": "3216",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOGOR",
+    "id": 127885,
+    "kode": "3201",
+    "tingkat": 2
+  },
+  {
+    "nama": "CIAMIS",
+    "id": 191275,
+    "kode": "3207",
+    "tingkat": 2
+  },
+  {
+    "nama": "CIANJUR",
+    "id": 191271,
+    "kode": "3203",
+    "tingkat": 2
+  },
+  {
+    "nama": "CIREBON",
+    "id": 191277,
+    "kode": "3209",
+    "tingkat": 2
+  },
+  {
+    "nama": "GARUT",
+    "id": 191273,
+    "kode": "3205",
+    "tingkat": 2
+  },
+  {
+    "nama": "INDRAMAYU",
+    "id": 191281,
+    "kode": "3212",
+    "tingkat": 2
+  },
+  {
+    "nama": "KARAWANG",
+    "id": 191283,
+    "kode": "3215",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BANDUNG",
+    "id": 191289,
+    "kode": "3273",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BANJAR",
+    "id": 134462,
+    "kode": "3279",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BEKASI",
+    "id": 191291,
+    "kode": "3275",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BOGOR",
+    "id": 191287,
+    "kode": "3271",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA CIMAHI",
+    "id": 191292,
+    "kode": "3277",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA CIREBON",
+    "id": 191290,
+    "kode": "3274",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA DEPOK",
+    "id": 191279,
+    "kode": "3276",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SUKABUMI",
+    "id": 191288,
+    "kode": "3272",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TASIKMALAYA",
+    "id": 191293,
+    "kode": "3278",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUNINGAN",
+    "id": 191276,
+    "kode": "3208",
+    "tingkat": 2
+  },
+  {
+    "nama": "MAJALENGKA",
+    "id": 191278,
+    "kode": "3210",
+    "tingkat": 2
+  },
+  {
+    "nama": "PANGANDARAN",
+    "id": 191286,
+    "kode": "3218",
+    "tingkat": 2
+  },
+  {
+    "nama": "PURWAKARTA",
+    "id": 191282,
+    "kode": "3214",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUBANG",
+    "id": 132551,
+    "kode": "3213",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUKABUMI",
+    "id": 191270,
+    "kode": "3202",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMEDANG",
+    "id": 191280,
+    "kode": "3211",
+    "tingkat": 2
+  },
+  {
+    "nama": "TASIKMALAYA",
+    "id": 191274,
+    "kode": "3206",
+    "tingkat": 2
+  }
+]

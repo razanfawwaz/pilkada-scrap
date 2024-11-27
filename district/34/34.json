@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "BANTUL",
+    "id": 191327,
+    "kode": "3402",
+    "tingkat": 2
+  },
+  {
+    "nama": "GUNUNGKIDUL",
+    "id": 191328,
+    "kode": "3403",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA YOGYAKARTA",
+    "id": 191330,
+    "kode": "3471",
+    "tingkat": 2
+  },
+  {
+    "nama": "KULON PROGO",
+    "id": 143631,
+    "kode": "3401",
+    "tingkat": 2
+  },
+  {
+    "nama": "SLEMAN",
+    "id": 191329,
+    "kode": "3404",
+    "tingkat": 2
+  }
+]

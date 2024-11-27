@@ -1,0 +1,74 @@
+[
+  {
+    "nama": "BENGKALIS",
+    "id": 191200,
+    "kode": "1403",
+    "tingkat": 2
+  },
+  {
+    "nama": "INDRAGIRI HILIR",
+    "id": 191201,
+    "kode": "1404",
+    "tingkat": 2
+  },
+  {
+    "nama": "INDRAGIRI HULU",
+    "id": 191199,
+    "kode": "1402",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAMPAR",
+    "id": 114827,
+    "kode": "1401",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN MERANTI",
+    "id": 191204,
+    "kode": "1410",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA DUMAI",
+    "id": 191206,
+    "kode": "1472",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PEKANBARU",
+    "id": 191205,
+    "kode": "1471",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUANTAN SINGINGI",
+    "id": 191203,
+    "kode": "1409",
+    "tingkat": 2
+  },
+  {
+    "nama": "PELALAWAN",
+    "id": 191590,
+    "kode": "1405",
+    "tingkat": 2
+  },
+  {
+    "nama": "ROKAN HILIR",
+    "id": 191592,
+    "kode": "1407",
+    "tingkat": 2
+  },
+  {
+    "nama": "ROKAN HULU",
+    "id": 191591,
+    "kode": "1406",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIAK",
+    "id": 191202,
+    "kode": "1408",
+    "tingkat": 2
+  }
+]

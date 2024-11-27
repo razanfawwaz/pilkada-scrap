@@ -1,0 +1,86 @@
+[
+  {
+    "nama": "BENGKAYANG",
+    "id": 191381,
+    "kode": "6107",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAPUAS HULU",
+    "id": 191380,
+    "kode": "6106",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAYONG UTARA",
+    "id": 191385,
+    "kode": "6111",
+    "tingkat": 2
+  },
+  {
+    "nama": "KETAPANG",
+    "id": 191378,
+    "kode": "6104",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PONTIANAK",
+    "id": 191387,
+    "kode": "6171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SINGKAWANG",
+    "id": 191388,
+    "kode": "6172",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUBU RAYA",
+    "id": 191386,
+    "kode": "6112",
+    "tingkat": 2
+  },
+  {
+    "nama": "LANDAK",
+    "id": 191382,
+    "kode": "6108",
+    "tingkat": 2
+  },
+  {
+    "nama": "MELAWI",
+    "id": 191384,
+    "kode": "6110",
+    "tingkat": 2
+  },
+  {
+    "nama": "MEMPAWAH",
+    "id": 191376,
+    "kode": "6102",
+    "tingkat": 2
+  },
+  {
+    "nama": "SAMBAS",
+    "id": 160806,
+    "kode": "6101",
+    "tingkat": 2
+  },
+  {
+    "nama": "SANGGAU",
+    "id": 191377,
+    "kode": "6103",
+    "tingkat": 2
+  },
+  {
+    "nama": "SEKADAU",
+    "id": 191383,
+    "kode": "6109",
+    "tingkat": 2
+  },
+  {
+    "nama": "SINTANG",
+    "id": 191379,
+    "kode": "6105",
+    "tingkat": 2
+  }
+]

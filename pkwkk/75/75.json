@@ -1,0 +1,96 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "progres": {
+        "total": 2016,
+        "persen": 97.42,
+        "progres": 1964
+      }
+    },
+    "table": {
+      "7501": {
+        "psu": "Reguler",
+        "1001336": 18594,
+        "1001337": 82784,
+        "1001338": 77804,
+        "1001339": 49183,
+        "progres": {
+          "total": 701,
+          "persen": 97.57,
+          "progres": 684
+        },
+        "status_progress": true
+      },
+      "7502": {
+        "psu": "Reguler",
+        "1001340": 28073,
+        "1001341": 42322,
+        "1001342": 9735,
+        "1001343": 5929,
+        "1001344": 1859,
+        "progres": {
+          "total": 242,
+          "persen": 99.59,
+          "progres": 241
+        },
+        "status_progress": true
+      },
+      "7503": {
+        "psu": "Reguler",
+        "1001345": 33303,
+        "1001346": 29740,
+        "1001347": 36511,
+        "1001348": 5890,
+        "progres": {
+          "total": 294,
+          "persen": 98.64,
+          "progres": 290
+        },
+        "status_progress": true
+      },
+      "7504": {
+        "psu": "Reguler",
+        "1001349": 34346,
+        "1001350": 43257,
+        "progres": {
+          "total": 258,
+          "persen": 98.84,
+          "progres": 255
+        },
+        "status_progress": true
+      },
+      "7505": {
+        "psu": "Reguler",
+        "1001351": 37849,
+        "1001352": 26713,
+        "1001353": 4739,
+        "progres": {
+          "total": 245,
+          "persen": 91.43,
+          "progres": 224
+        },
+        "status_progress": true
+      },
+      "7571": {
+        "psu": "Reguler",
+        "1001354": 26495,
+        "1001355": 13553,
+        "1001356": 38460,
+        "1001357": 24231,
+        "progres": {
+          "total": 276,
+          "persen": 97.83,
+          "progres": 270
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 2016,
+    "progres": 1964
+  },
+  "ts": "2024-11-28 01:00:00"
+}

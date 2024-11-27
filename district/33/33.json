@@ -1,0 +1,212 @@
+[
+  {
+    "nama": "BANJARNEGARA",
+    "id": 191296,
+    "kode": "3304",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANYUMAS",
+    "id": 191294,
+    "kode": "3302",
+    "tingkat": 2
+  },
+  {
+    "nama": "BATANG",
+    "id": 191316,
+    "kode": "3325",
+    "tingkat": 2
+  },
+  {
+    "nama": "BLORA",
+    "id": 191308,
+    "kode": "3316",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOYOLALI",
+    "id": 191301,
+    "kode": "3309",
+    "tingkat": 2
+  },
+  {
+    "nama": "BREBES",
+    "id": 191320,
+    "kode": "3329",
+    "tingkat": 2
+  },
+  {
+    "nama": "CILACAP",
+    "id": 134463,
+    "kode": "3301",
+    "tingkat": 2
+  },
+  {
+    "nama": "DEMAK",
+    "id": 191312,
+    "kode": "3321",
+    "tingkat": 2
+  },
+  {
+    "nama": "GROBOGAN",
+    "id": 191307,
+    "kode": "3315",
+    "tingkat": 2
+  },
+  {
+    "nama": "JEPARA",
+    "id": 191311,
+    "kode": "3320",
+    "tingkat": 2
+  },
+  {
+    "nama": "KARANGANYAR",
+    "id": 191305,
+    "kode": "3313",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEBUMEN",
+    "id": 191297,
+    "kode": "3305",
+    "tingkat": 2
+  },
+  {
+    "nama": "KENDAL",
+    "id": 191315,
+    "kode": "3324",
+    "tingkat": 2
+  },
+  {
+    "nama": "KLATEN",
+    "id": 191302,
+    "kode": "3310",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MAGELANG",
+    "id": 191321,
+    "kode": "3371",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PEKALONGAN",
+    "id": 191325,
+    "kode": "3375",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SALATIGA",
+    "id": 191323,
+    "kode": "3373",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SEMARANG",
+    "id": 191324,
+    "kode": "3374",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SURAKARTA",
+    "id": 191322,
+    "kode": "3372",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TEGAL",
+    "id": 191326,
+    "kode": "3376",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUDUS",
+    "id": 191310,
+    "kode": "3319",
+    "tingkat": 2
+  },
+  {
+    "nama": "MAGELANG",
+    "id": 191300,
+    "kode": "3308",
+    "tingkat": 2
+  },
+  {
+    "nama": "PATI",
+    "id": 139944,
+    "kode": "3318",
+    "tingkat": 2
+  },
+  {
+    "nama": "PEKALONGAN",
+    "id": 191317,
+    "kode": "3326",
+    "tingkat": 2
+  },
+  {
+    "nama": "PEMALANG",
+    "id": 191318,
+    "kode": "3327",
+    "tingkat": 2
+  },
+  {
+    "nama": "PURBALINGGA",
+    "id": 191295,
+    "kode": "3303",
+    "tingkat": 2
+  },
+  {
+    "nama": "PURWOREJO",
+    "id": 191298,
+    "kode": "3306",
+    "tingkat": 2
+  },
+  {
+    "nama": "REMBANG",
+    "id": 191309,
+    "kode": "3317",
+    "tingkat": 2
+  },
+  {
+    "nama": "SEMARANG",
+    "id": 191313,
+    "kode": "3322",
+    "tingkat": 2
+  },
+  {
+    "nama": "SRAGEN",
+    "id": 191306,
+    "kode": "3314",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUKOHARJO",
+    "id": 191303,
+    "kode": "3311",
+    "tingkat": 2
+  },
+  {
+    "nama": "TEGAL",
+    "id": 191319,
+    "kode": "3328",
+    "tingkat": 2
+  },
+  {
+    "nama": "TEMANGGUNG",
+    "id": 191314,
+    "kode": "3323",
+    "tingkat": 2
+  },
+  {
+    "nama": "WONOGIRI",
+    "id": 191304,
+    "kode": "3312",
+    "tingkat": 2
+  },
+  {
+    "nama": "WONOSOBO",
+    "id": 191299,
+    "kode": "3307",
+    "tingkat": 2
+  }
+]

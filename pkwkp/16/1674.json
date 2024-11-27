@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000012": 49058,
+      "1000013": 30168,
+      "1000014": 26655,
+      "progres": {
+        "total": 281,
+        "persen": 98.58,
+        "progres": 277
+      }
+    },
+    "table": {
+      "167401": {
+        "psu": "Reguler",
+        "1000012": 7091,
+        "1000013": 5281,
+        "1000014": 4340,
+        "progres": {
+          "total": 44,
+          "persen": 100.0,
+          "progres": 44
+        },
+        "status_progress": true
+      },
+      "167402": {
+        "psu": "Reguler",
+        "1000012": 18507,
+        "1000013": 11967,
+        "1000014": 10504,
+        "progres": {
+          "total": 110,
+          "persen": 96.36,
+          "progres": 106
+        },
+        "status_progress": true
+      },
+      "167403": {
+        "psu": "Reguler",
+        "1000012": 5175,
+        "1000013": 2842,
+        "1000014": 3090,
+        "progres": {
+          "total": 29,
+          "persen": 100.0,
+          "progres": 29
+        },
+        "status_progress": true
+      },
+      "167404": {
+        "psu": "Reguler",
+        "1000012": 4479,
+        "1000013": 2063,
+        "1000014": 1306,
+        "progres": {
+          "total": 24,
+          "persen": 100.0,
+          "progres": 24
+        },
+        "status_progress": true
+      },
+      "167405": {
+        "psu": "Reguler",
+        "1000012": 6448,
+        "1000013": 5337,
+        "1000014": 4937,
+        "progres": {
+          "total": 44,
+          "persen": 100.0,
+          "progres": 44
+        },
+        "status_progress": true
+      },
+      "167406": {
+        "psu": "Reguler",
+        "1000012": 7358,
+        "1000013": 2678,
+        "1000014": 2478,
+        "progres": {
+          "total": 30,
+          "persen": 100.0,
+          "progres": 30
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 281,
+    "progres": 277
+  },
+  "ts": "2024-11-27 23:15:05"
+}

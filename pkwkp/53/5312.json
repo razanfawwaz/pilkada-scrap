@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000042": 17048,
+      "1000043": 23784,
+      "1000044": 13001,
+      "progres": {
+        "total": 240,
+        "persen": 84.58,
+        "progres": 203
+      }
+    },
+    "table": {
+      "531204": {
+        "psu": "Reguler",
+        "1000042": 1774,
+        "1000043": 2504,
+        "1000044": 1152,
+        "progres": {
+          "total": 41,
+          "persen": 58.54,
+          "progres": 24
+        },
+        "status_progress": true
+      },
+      "531210": {
+        "psu": "Reguler",
+        "1000042": 4244,
+        "1000043": 7129,
+        "1000044": 3400,
+        "progres": {
+          "total": 58,
+          "persen": 94.83,
+          "progres": 55
+        },
+        "status_progress": true
+      },
+      "531211": {
+        "psu": "Reguler",
+        "1000042": 2723,
+        "1000043": 3551,
+        "1000044": 1793,
+        "progres": {
+          "total": 38,
+          "persen": 86.84,
+          "progres": 33
+        },
+        "status_progress": true
+      },
+      "531212": {
+        "psu": "Reguler",
+        "1000042": 3927,
+        "1000043": 3373,
+        "1000044": 2548,
+        "progres": {
+          "total": 35,
+          "persen": 100.0,
+          "progres": 35
+        },
+        "status_progress": true
+      },
+      "531215": {
+        "psu": "Reguler",
+        "1000042": 3314,
+        "1000043": 5435,
+        "1000044": 3101,
+        "progres": {
+          "total": 50,
+          "persen": 80.0,
+          "progres": 40
+        },
+        "status_progress": true
+      },
+      "531218": {
+        "psu": "Reguler",
+        "1000042": 1066,
+        "1000043": 1792,
+        "1000044": 1007,
+        "progres": {
+          "total": 18,
+          "persen": 88.89,
+          "progres": 16
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 240,
+    "progres": 203
+  },
+  "ts": "2024-11-27 23:30:00"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "BULUNGAN",
+    "id": 168175,
+    "kode": "6501",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TARAKAN",
+    "id": 168683,
+    "kode": "6571",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALINAU",
+    "id": 191459,
+    "kode": "6502",
+    "tingkat": 2
+  },
+  {
+    "nama": "NUNUKAN",
+    "id": 191460,
+    "kode": "6503",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANA TIDUNG",
+    "id": 191461,
+    "kode": "6504",
+    "tingkat": 2
+  }
+]

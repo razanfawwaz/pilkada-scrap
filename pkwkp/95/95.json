@@ -1,0 +1,100 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000098": 1171,
+      "1000099": 1145,
+      "progres": {
+        "total": 3429,
+        "persen": 0.2,
+        "progres": 7
+      }
+    },
+    "table": {
+      "9501": {
+        "psu": "Reguler",
+        "1000098": 911,
+        "1000099": 292,
+        "progres": {
+          "total": 547,
+          "persen": 0.73,
+          "progres": 4
+        },
+        "status_progress": true
+      },
+      "9502": {
+        "psu": "Reguler",
+        "1000098": 200,
+        "1000099": 240,
+        "progres": {
+          "total": 318,
+          "persen": 0.31,
+          "progres": 1
+        },
+        "status_progress": true
+      },
+      "9503": {
+        "psu": "Reguler",
+        "progres": {
+          "total": 761,
+          "persen": 0.0,
+          "progres": 0
+        },
+        "status_progress": false
+      },
+      "9504": {
+        "psu": "Reguler",
+        "progres": {
+          "total": 677,
+          "persen": 0.0,
+          "progres": 0
+        },
+        "status_progress": false
+      },
+      "9505": {
+        "psu": "Reguler",
+        "progres": {
+          "total": 87,
+          "persen": 0.0,
+          "progres": 0
+        },
+        "status_progress": false
+      },
+      "9506": {
+        "psu": "Reguler",
+        "progres": {
+          "total": 301,
+          "persen": 0.0,
+          "progres": 0
+        },
+        "status_progress": false
+      },
+      "9507": {
+        "psu": "Reguler",
+        "1000098": 60,
+        "1000099": 613,
+        "progres": {
+          "total": 453,
+          "persen": 0.44,
+          "progres": 2
+        },
+        "status_progress": true
+      },
+      "9508": {
+        "psu": "Reguler",
+        "progres": {
+          "total": 285,
+          "persen": 0.0,
+          "progres": 0
+        },
+        "status_progress": false
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 3429,
+    "progres": 7
+  },
+  "ts": "2024-11-28 00:45:00"
+}

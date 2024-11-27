@@ -1,0 +1,86 @@
+[
+  {
+    "nama": "BARITO SELATAN",
+    "id": 191391,
+    "kode": "6204",
+    "tingkat": 2
+  },
+  {
+    "nama": "BARITO TIMUR",
+    "id": 191400,
+    "kode": "6213",
+    "tingkat": 2
+  },
+  {
+    "nama": "BARITO UTARA",
+    "id": 191392,
+    "kode": "6205",
+    "tingkat": 2
+  },
+  {
+    "nama": "GUNUNG MAS",
+    "id": 191397,
+    "kode": "6210",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAPUAS",
+    "id": 191390,
+    "kode": "6203",
+    "tingkat": 2
+  },
+  {
+    "nama": "KATINGAN",
+    "id": 191393,
+    "kode": "6206",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PALANGKARAYA",
+    "id": 164830,
+    "kode": "6271",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTAWARINGIN BARAT",
+    "id": 163157,
+    "kode": "6201",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTAWARINGIN TIMUR",
+    "id": 191389,
+    "kode": "6202",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMANDAU",
+    "id": 191396,
+    "kode": "6209",
+    "tingkat": 2
+  },
+  {
+    "nama": "MURUNG RAYA",
+    "id": 191399,
+    "kode": "6212",
+    "tingkat": 2
+  },
+  {
+    "nama": "PULANG PISAU",
+    "id": 191398,
+    "kode": "6211",
+    "tingkat": 2
+  },
+  {
+    "nama": "SERUYAN",
+    "id": 191394,
+    "kode": "6207",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUKAMARA",
+    "id": 191395,
+    "kode": "6208",
+    "tingkat": 2
+  }
+]

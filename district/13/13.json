@@ -1,0 +1,116 @@
+[
+  {
+    "nama": "AGAM",
+    "id": 191185,
+    "kode": "1306",
+    "tingkat": 2
+  },
+  {
+    "nama": "DHARMASRAYA",
+    "id": 191189,
+    "kode": "1310",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN MENTAWAI",
+    "id": 191188,
+    "kode": "1309",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BUKITTINGGI",
+    "id": 191196,
+    "kode": "1375",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PADANG",
+    "id": 191192,
+    "kode": "1371",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PADANG PANJANG",
+    "id": 191195,
+    "kode": "1374",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PARIAMAN",
+    "id": 191198,
+    "kode": "1377",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PAYAKUMBUH",
+    "id": 191197,
+    "kode": "1376",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SAWAHLUNTO",
+    "id": 191194,
+    "kode": "1373",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SOLOK",
+    "id": 191193,
+    "kode": "1372",
+    "tingkat": 2
+  },
+  {
+    "nama": "LIMA PULUH KOTA",
+    "id": 191186,
+    "kode": "1307",
+    "tingkat": 2
+  },
+  {
+    "nama": "PADANG PARIAMAN",
+    "id": 191184,
+    "kode": "1305",
+    "tingkat": 2
+  },
+  {
+    "nama": "PASAMAN",
+    "id": 191187,
+    "kode": "1308",
+    "tingkat": 2
+  },
+  {
+    "nama": "PASAMAN BARAT",
+    "id": 191191,
+    "kode": "1312",
+    "tingkat": 2
+  },
+  {
+    "nama": "PESISIR SELATAN",
+    "id": 113400,
+    "kode": "1301",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIJUNJUNG",
+    "id": 191182,
+    "kode": "1303",
+    "tingkat": 2
+  },
+  {
+    "nama": "SOLOK",
+    "id": 191181,
+    "kode": "1302",
+    "tingkat": 2
+  },
+  {
+    "nama": "SOLOK SELATAN",
+    "id": 191190,
+    "kode": "1311",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANAH DATAR",
+    "id": 191183,
+    "kode": "1304",
+    "tingkat": 2
+  }
+]

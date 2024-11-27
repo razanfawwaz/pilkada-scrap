@@ -1,0 +1,92 @@
+[
+  {
+    "nama": "BOLAANG MONGONDOW",
+    "id": 191462,
+    "kode": "7101",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOLAANG MONGONDOW SELATAN",
+    "id": 191472,
+    "kode": "7111",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOLAANG MONGONDOW TIMUR",
+    "id": 191471,
+    "kode": "7110",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOLAANG MONGONDOW UTARA",
+    "id": 191469,
+    "kode": "7108",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEP. SIAU TAGULANDANG BIARO",
+    "id": 191470,
+    "kode": "7109",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN SANGIHE",
+    "id": 191463,
+    "kode": "7103",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN TALAUD",
+    "id": 191465,
+    "kode": "7104",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BITUNG",
+    "id": 191474,
+    "kode": "7172",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA KOTAMOBAGU",
+    "id": 191476,
+    "kode": "7174",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MANADO",
+    "id": 191473,
+    "kode": "7171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TOMOHON",
+    "id": 191475,
+    "kode": "7173",
+    "tingkat": 2
+  },
+  {
+    "nama": "MINAHASA",
+    "id": 191464,
+    "kode": "7102",
+    "tingkat": 2
+  },
+  {
+    "nama": "MINAHASA SELATAN",
+    "id": 191466,
+    "kode": "7105",
+    "tingkat": 2
+  },
+  {
+    "nama": "MINAHASA TENGGARA",
+    "id": 191468,
+    "kode": "7107",
+    "tingkat": 2
+  },
+  {
+    "nama": "MINAHASA UTARA",
+    "id": 191467,
+    "kode": "7106",
+    "tingkat": 2
+  }
+]

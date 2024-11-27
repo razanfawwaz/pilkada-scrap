@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001436": 15430,
+      "1001437": 2895,
+      "1001438": 16761,
+      "progres": {
+        "total": 140,
+        "persen": 80.71,
+        "progres": 113
+      }
+    },
+    "table": {
+      "820701": {
+        "psu": "Reguler",
+        "1001436": 4096,
+        "1001437": 1174,
+        "1001438": 6594,
+        "progres": {
+          "total": 51,
+          "persen": 72.55,
+          "progres": 37
+        },
+        "status_progress": true
+      },
+      "820702": {
+        "psu": "Reguler",
+        "1001436": 2160,
+        "1001437": 357,
+        "1001438": 2098,
+        "progres": {
+          "total": 19,
+          "persen": 84.21,
+          "progres": 16
+        },
+        "status_progress": true
+      },
+      "820703": {
+        "psu": "Reguler",
+        "1001436": 2313,
+        "1001437": 445,
+        "1001438": 1943,
+        "progres": {
+          "total": 20,
+          "persen": 85.0,
+          "progres": 17
+        },
+        "status_progress": true
+      },
+      "820704": {
+        "psu": "Reguler",
+        "1001436": 2679,
+        "1001437": 373,
+        "1001438": 3136,
+        "progres": {
+          "total": 21,
+          "persen": 90.48,
+          "progres": 19
+        },
+        "status_progress": true
+      },
+      "820705": {
+        "psu": "Reguler",
+        "1001436": 2123,
+        "1001437": 318,
+        "1001438": 2367,
+        "progres": {
+          "total": 20,
+          "persen": 75.0,
+          "progres": 15
+        },
+        "status_progress": true
+      },
+      "820706": {
+        "psu": "Reguler",
+        "1001436": 2059,
+        "1001437": 228,
+        "1001438": 623,
+        "progres": {
+          "total": 9,
+          "persen": 100.0,
+          "progres": 9
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 140,
+    "progres": 113
+  },
+  "ts": "2024-11-28 00:45:00"
+}

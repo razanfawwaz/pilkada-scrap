@@ -1,0 +1,104 @@
+[
+  {
+    "nama": "BANYUASIN",
+    "id": 191219,
+    "kode": "1607",
+    "tingkat": 2
+  },
+  {
+    "nama": "EMPAT LAWANG",
+    "id": 191223,
+    "kode": "1611",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA LUBUK LINGGAU",
+    "id": 191228,
+    "kode": "1673",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PAGAR ALAM",
+    "id": 191227,
+    "kode": "1672",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PALEMBANG",
+    "id": 191226,
+    "kode": "1671",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PRABUMULIH",
+    "id": 191229,
+    "kode": "1674",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAHAT",
+    "id": 119377,
+    "kode": "1604",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUARA ENIM",
+    "id": 191217,
+    "kode": "1603",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUSI BANYUASIN",
+    "id": 191215,
+    "kode": "1606",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUSI RAWAS",
+    "id": 191218,
+    "kode": "1605",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUSI RAWAS UTARA",
+    "id": 191225,
+    "kode": "1613",
+    "tingkat": 2
+  },
+  {
+    "nama": "OGAN ILIR",
+    "id": 191222,
+    "kode": "1610",
+    "tingkat": 2
+  },
+  {
+    "nama": "OGAN KOMERING ILIR",
+    "id": 191216,
+    "kode": "1602",
+    "tingkat": 2
+  },
+  {
+    "nama": "OGAN KOMERING ULU",
+    "id": 118596,
+    "kode": "1601",
+    "tingkat": 2
+  },
+  {
+    "nama": "OGAN KOMERING ULU SELATAN",
+    "id": 191221,
+    "kode": "1609",
+    "tingkat": 2
+  },
+  {
+    "nama": "OGAN KOMERING ULU TIMUR",
+    "id": 191220,
+    "kode": "1608",
+    "tingkat": 2
+  },
+  {
+    "nama": "PENUKAL ABAB LEMATANG ILIR",
+    "id": 191224,
+    "kode": "1612",
+    "tingkat": 2
+  }
+]

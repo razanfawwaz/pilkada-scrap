@@ -1,0 +1,44 @@
+[
+  {
+    "nama": "BANGKA",
+    "id": 126661,
+    "kode": "1901",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGKA BARAT",
+    "id": 191262,
+    "kode": "1905",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGKA SELATAN",
+    "id": 191260,
+    "kode": "1903",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGKA TENGAH",
+    "id": 191261,
+    "kode": "1904",
+    "tingkat": 2
+  },
+  {
+    "nama": "BELITUNG",
+    "id": 191259,
+    "kode": "1902",
+    "tingkat": 2
+  },
+  {
+    "nama": "BELITUNG TIMUR",
+    "id": 191263,
+    "kode": "1906",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PANGKAL PINANG",
+    "id": 191264,
+    "kode": "1971",
+    "tingkat": 2
+  }
+]

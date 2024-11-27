@@ -1,0 +1,38 @@
+[
+  {
+    "nama": "KOTA SORONG",
+    "id": 191586,
+    "kode": "9671",
+    "tingkat": 2
+  },
+  {
+    "nama": "MAYBRAT",
+    "id": 191585,
+    "kode": "9605",
+    "tingkat": 2
+  },
+  {
+    "nama": "RAJA AMPAT",
+    "id": 191583,
+    "kode": "9603",
+    "tingkat": 2
+  },
+  {
+    "nama": "SORONG",
+    "id": 189958,
+    "kode": "9601",
+    "tingkat": 2
+  },
+  {
+    "nama": "SORONG SELATAN",
+    "id": 191582,
+    "kode": "9602",
+    "tingkat": 2
+  },
+  {
+    "nama": "TAMBRAUW",
+    "id": 191584,
+    "kode": "9604",
+    "tingkat": 2
+  }
+]

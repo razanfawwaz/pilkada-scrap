@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "BIMA",
+    "id": 191415,
+    "kode": "5206",
+    "tingkat": 2
+  },
+  {
+    "nama": "DOMPU",
+    "id": 191414,
+    "kode": "5205",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BIMA",
+    "id": 191413,
+    "kode": "5272",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MATARAM",
+    "id": 191411,
+    "kode": "5271",
+    "tingkat": 2
+  },
+  {
+    "nama": "LOMBOK BARAT",
+    "id": 155798,
+    "kode": "5201",
+    "tingkat": 2
+  },
+  {
+    "nama": "LOMBOK TENGAH",
+    "id": 191409,
+    "kode": "5202",
+    "tingkat": 2
+  },
+  {
+    "nama": "LOMBOK TIMUR",
+    "id": 191410,
+    "kode": "5203",
+    "tingkat": 2
+  },
+  {
+    "nama": "LOMBOK UTARA",
+    "id": 191417,
+    "kode": "5208",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBAWA",
+    "id": 191412,
+    "kode": "5204",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBAWA BARAT",
+    "id": 191416,
+    "kode": "5207",
+    "tingkat": 2
+  }
+]

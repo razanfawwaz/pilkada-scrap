@@ -1,0 +1,68 @@
+[
+  {
+    "nama": "BATANGHARI",
+    "id": 191208,
+    "kode": "1504",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUNGO",
+    "id": 191211,
+    "kode": "1508",
+    "tingkat": 2
+  },
+  {
+    "nama": "KERINCI",
+    "id": 191593,
+    "kode": "1501",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA JAMBI",
+    "id": 191213,
+    "kode": "1571",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SUNGAI PENUH",
+    "id": 191214,
+    "kode": "1572",
+    "tingkat": 2
+  },
+  {
+    "nama": "MERANGIN",
+    "id": 191594,
+    "kode": "1502",
+    "tingkat": 2
+  },
+  {
+    "nama": "MUARO JAMBI",
+    "id": 191595,
+    "kode": "1505",
+    "tingkat": 2
+  },
+  {
+    "nama": "SAROLANGUN",
+    "id": 191207,
+    "kode": "1503",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANJUNG JABUNG BARAT",
+    "id": 191209,
+    "kode": "1506",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANJUNG JABUNG TIMUR",
+    "id": 191210,
+    "kode": "1507",
+    "tingkat": 2
+  },
+  {
+    "nama": "TEBO",
+    "id": 191212,
+    "kode": "1509",
+    "tingkat": 2
+  }
+]

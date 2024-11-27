@@ -1,0 +1,68 @@
+[
+  {
+    "nama": "BURU",
+    "id": 191536,
+    "kode": "8104",
+    "tingkat": 2
+  },
+  {
+    "nama": "BURU SELATAN",
+    "id": 191541,
+    "kode": "8109",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN ARU",
+    "id": 191539,
+    "kode": "8107",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN TANIMBAR",
+    "id": 191535,
+    "kode": "8103",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA AMBON",
+    "id": 191542,
+    "kode": "8171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TUAL",
+    "id": 191543,
+    "kode": "8172",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALUKU BARAT DAYA",
+    "id": 191540,
+    "kode": "8108",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALUKU TENGAH",
+    "id": 180295,
+    "kode": "8101",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALUKU TENGGARA",
+    "id": 191534,
+    "kode": "8102",
+    "tingkat": 2
+  },
+  {
+    "nama": "SERAM BAGIAN BARAT",
+    "id": 191538,
+    "kode": "8106",
+    "tingkat": 2
+  },
+  {
+    "nama": "SERAM BAGIAN TIMUR",
+    "id": 191537,
+    "kode": "8105",
+    "tingkat": 2
+  }
+]

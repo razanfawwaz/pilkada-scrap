@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "BERAU",
+    "id": 191452,
+    "kode": "6403",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BALIKPAPAN",
+    "id": 191457,
+    "kode": "6471",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BONTANG",
+    "id": 168174,
+    "kode": "6474",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SAMARINDA",
+    "id": 191458,
+    "kode": "6472",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUTAI BARAT",
+    "id": 191453,
+    "kode": "6407",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUTAI KARTANEGARA",
+    "id": 191451,
+    "kode": "6402",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUTAI TIMUR",
+    "id": 191454,
+    "kode": "6408",
+    "tingkat": 2
+  },
+  {
+    "nama": "MAHAKAM ULU",
+    "id": 191456,
+    "kode": "6411",
+    "tingkat": 2
+  },
+  {
+    "nama": "PASER",
+    "id": 167006,
+    "kode": "6401",
+    "tingkat": 2
+  },
+  {
+    "nama": "PENAJAM PASER UTARA",
+    "id": 191455,
+    "kode": "6409",
+    "tingkat": 2
+  }
+]

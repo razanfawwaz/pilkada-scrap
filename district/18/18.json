@@ -1,0 +1,92 @@
+[
+  {
+    "nama": "KOTA BANDAR LAMPUNG",
+    "id": 191258,
+    "kode": "1871",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA METRO",
+    "id": 126660,
+    "kode": "1872",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMPUNG BARAT",
+    "id": 191248,
+    "kode": "1804",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMPUNG SELATAN",
+    "id": 191245,
+    "kode": "1801",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMPUNG TENGAH",
+    "id": 191246,
+    "kode": "1802",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMPUNG TIMUR",
+    "id": 191251,
+    "kode": "1807",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMPUNG UTARA",
+    "id": 191247,
+    "kode": "1803",
+    "tingkat": 2
+  },
+  {
+    "nama": "MESUJI",
+    "id": 191255,
+    "kode": "1811",
+    "tingkat": 2
+  },
+  {
+    "nama": "PESAWARAN",
+    "id": 191253,
+    "kode": "1809",
+    "tingkat": 2
+  },
+  {
+    "nama": "PESISIR BARAT",
+    "id": 191257,
+    "kode": "1813",
+    "tingkat": 2
+  },
+  {
+    "nama": "PRINGSEWU",
+    "id": 191254,
+    "kode": "1810",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANGGAMUS",
+    "id": 191250,
+    "kode": "1806",
+    "tingkat": 2
+  },
+  {
+    "nama": "TULANG BAWANG",
+    "id": 191249,
+    "kode": "1805",
+    "tingkat": 2
+  },
+  {
+    "nama": "TULANG BAWANG BARAT",
+    "id": 191256,
+    "kode": "1812",
+    "tingkat": 2
+  },
+  {
+    "nama": "WAY KANAN",
+    "id": 191252,
+    "kode": "1808",
+    "tingkat": 2
+  }
+]

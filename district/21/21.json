@@ -1,0 +1,44 @@
+[
+  {
+    "nama": "BINTAN",
+    "id": 121936,
+    "kode": "2101",
+    "tingkat": 2
+  },
+  {
+    "nama": "KARIMUN",
+    "id": 191231,
+    "kode": "2102",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN ANAMBAS",
+    "id": 191234,
+    "kode": "2105",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BATAM",
+    "id": 191230,
+    "kode": "2171",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TANJUNG PINANG",
+    "id": 127557,
+    "kode": "2172",
+    "tingkat": 2
+  },
+  {
+    "nama": "LINGGA",
+    "id": 191233,
+    "kode": "2104",
+    "tingkat": 2
+  },
+  {
+    "nama": "NATUNA",
+    "id": 191232,
+    "kode": "2103",
+    "tingkat": 2
+  }
+]

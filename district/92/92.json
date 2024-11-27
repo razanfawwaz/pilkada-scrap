@@ -1,0 +1,44 @@
+[
+  {
+    "nama": "FAK FAK",
+    "id": 191562,
+    "kode": "9203",
+    "tingkat": 2
+  },
+  {
+    "nama": "KAIMANA",
+    "id": 191565,
+    "kode": "9208",
+    "tingkat": 2
+  },
+  {
+    "nama": "MANOKWARI",
+    "id": 184069,
+    "kode": "9202",
+    "tingkat": 2
+  },
+  {
+    "nama": "MANOKWARI SELATAN",
+    "id": 191566,
+    "kode": "9211",
+    "tingkat": 2
+  },
+  {
+    "nama": "PEGUNUNGAN ARFAK",
+    "id": 191567,
+    "kode": "9212",
+    "tingkat": 2
+  },
+  {
+    "nama": "TELUK BINTUNI",
+    "id": 191563,
+    "kode": "9206",
+    "tingkat": 2
+  },
+  {
+    "nama": "TELUK WONDAMA",
+    "id": 191564,
+    "kode": "9207",
+    "tingkat": 2
+  }
+]

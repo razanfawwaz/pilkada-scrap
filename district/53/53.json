@@ -1,0 +1,134 @@
+[
+  {
+    "nama": "ALOR",
+    "id": 191421,
+    "kode": "5305",
+    "tingkat": 2
+  },
+  {
+    "nama": "BELU",
+    "id": 191420,
+    "kode": "5304",
+    "tingkat": 2
+  },
+  {
+    "nama": "ENDE",
+    "id": 191424,
+    "kode": "5308",
+    "tingkat": 2
+  },
+  {
+    "nama": "FLORES TIMUR",
+    "id": 191422,
+    "kode": "5306",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA KUPANG",
+    "id": 191438,
+    "kode": "5371",
+    "tingkat": 2
+  },
+  {
+    "nama": "KUPANG",
+    "id": 157047,
+    "kode": "5301",
+    "tingkat": 2
+  },
+  {
+    "nama": "LEMBATA",
+    "id": 191429,
+    "kode": "5313",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALAKA",
+    "id": 191437,
+    "kode": "5321",
+    "tingkat": 2
+  },
+  {
+    "nama": "MANGGARAI",
+    "id": 191426,
+    "kode": "5310",
+    "tingkat": 2
+  },
+  {
+    "nama": "MANGGARAI BARAT",
+    "id": 191431,
+    "kode": "5315",
+    "tingkat": 2
+  },
+  {
+    "nama": "MANGGARAI TIMUR",
+    "id": 191435,
+    "kode": "5319",
+    "tingkat": 2
+  },
+  {
+    "nama": "NAGEKEO",
+    "id": 191432,
+    "kode": "5316",
+    "tingkat": 2
+  },
+  {
+    "nama": "NGADA",
+    "id": 191425,
+    "kode": "5309",
+    "tingkat": 2
+  },
+  {
+    "nama": "ROTE NDAO",
+    "id": 191430,
+    "kode": "5314",
+    "tingkat": 2
+  },
+  {
+    "nama": "SABU RAIJUA",
+    "id": 191436,
+    "kode": "5320",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIKKA",
+    "id": 191423,
+    "kode": "5307",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBA BARAT",
+    "id": 191428,
+    "kode": "5312",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBA BARAT DAYA",
+    "id": 191434,
+    "kode": "5318",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBA TENGAH",
+    "id": 191433,
+    "kode": "5317",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMBA TIMUR",
+    "id": 191427,
+    "kode": "5311",
+    "tingkat": 2
+  },
+  {
+    "nama": "TIMOR TENGAH SELATAN",
+    "id": 191418,
+    "kode": "5302",
+    "tingkat": 2
+  },
+  {
+    "nama": "TIMOR TENGAH UTARA",
+    "id": 191419,
+    "kode": "5303",
+    "tingkat": 2
+  }
+]

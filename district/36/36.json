@@ -1,0 +1,50 @@
+[
+  {
+    "nama": "KOTA CILEGON",
+    "id": 191373,
+    "kode": "3672",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SERANG",
+    "id": 191374,
+    "kode": "3673",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TANGERANG",
+    "id": 191368,
+    "kode": "3671",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TANGERANG SELATAN",
+    "id": 191375,
+    "kode": "3674",
+    "tingkat": 2
+  },
+  {
+    "nama": "LEBAK",
+    "id": 191370,
+    "kode": "3602",
+    "tingkat": 2
+  },
+  {
+    "nama": "PANDEGLANG",
+    "id": 191369,
+    "kode": "3601",
+    "tingkat": 2
+  },
+  {
+    "nama": "SERANG",
+    "id": 191372,
+    "kode": "3604",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANGERANG",
+    "id": 191371,
+    "kode": "3603",
+    "tingkat": 2
+  }
+]

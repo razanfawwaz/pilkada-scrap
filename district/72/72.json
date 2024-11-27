@@ -1,0 +1,80 @@
+[
+  {
+    "nama": "BANGGAI",
+    "id": 170707,
+    "kode": "7201",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGGAI KEPULAUAN",
+    "id": 191482,
+    "kode": "7207",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGGAI LAUT",
+    "id": 191486,
+    "kode": "7211",
+    "tingkat": 2
+  },
+  {
+    "nama": "BUOL",
+    "id": 191480,
+    "kode": "7205",
+    "tingkat": 2
+  },
+  {
+    "nama": "DONGGALA",
+    "id": 191478,
+    "kode": "7203",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PALU",
+    "id": 191488,
+    "kode": "7271",
+    "tingkat": 2
+  },
+  {
+    "nama": "MOROWALI",
+    "id": 191481,
+    "kode": "7206",
+    "tingkat": 2
+  },
+  {
+    "nama": "MOROWALI UTARA",
+    "id": 191487,
+    "kode": "7212",
+    "tingkat": 2
+  },
+  {
+    "nama": "PARIGI MOUTONG",
+    "id": 191483,
+    "kode": "7208",
+    "tingkat": 2
+  },
+  {
+    "nama": "POSO",
+    "id": 191477,
+    "kode": "7202",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIGI",
+    "id": 191485,
+    "kode": "7210",
+    "tingkat": 2
+  },
+  {
+    "nama": "TOJO UNA UNA",
+    "id": 191484,
+    "kode": "7209",
+    "tingkat": 2
+  },
+  {
+    "nama": "TOLI TOLI",
+    "id": 191479,
+    "kode": "7204",
+    "tingkat": 2
+  }
+]

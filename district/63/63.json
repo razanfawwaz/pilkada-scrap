@@ -1,0 +1,80 @@
+[
+  {
+    "nama": "BALANGAN",
+    "id": 191448,
+    "kode": "6311",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANJAR",
+    "id": 191440,
+    "kode": "6303",
+    "tingkat": 2
+  },
+  {
+    "nama": "BARITO KUALA",
+    "id": 191441,
+    "kode": "6304",
+    "tingkat": 2
+  },
+  {
+    "nama": "HULU SUNGAI SELATAN",
+    "id": 191443,
+    "kode": "6306",
+    "tingkat": 2
+  },
+  {
+    "nama": "HULU SUNGAI TENGAH",
+    "id": 191444,
+    "kode": "6307",
+    "tingkat": 2
+  },
+  {
+    "nama": "HULU SUNGAI UTARA",
+    "id": 191445,
+    "kode": "6308",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BANJARBARU",
+    "id": 191450,
+    "kode": "6372",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BANJARMASIN",
+    "id": 191449,
+    "kode": "6371",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTABARU",
+    "id": 191439,
+    "kode": "6302",
+    "tingkat": 2
+  },
+  {
+    "nama": "TABALONG",
+    "id": 191446,
+    "kode": "6309",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANAH BUMBU",
+    "id": 191447,
+    "kode": "6310",
+    "tingkat": 2
+  },
+  {
+    "nama": "TANAH LAUT",
+    "id": 164831,
+    "kode": "6301",
+    "tingkat": 2
+  },
+  {
+    "nama": "TAPIN",
+    "id": 191442,
+    "kode": "6305",
+    "tingkat": 2
+  }
+]

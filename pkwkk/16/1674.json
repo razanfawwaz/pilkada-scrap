@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000445": 58569,
+      "1000446": 17931,
+      "1000447": 33501,
+      "progres": {
+        "total": 281,
+        "persen": 98.58,
+        "progres": 277
+      }
+    },
+    "table": {
+      "167401": {
+        "psu": "Reguler",
+        "1000445": 8282,
+        "1000446": 4709,
+        "1000447": 4545,
+        "progres": {
+          "total": 44,
+          "persen": 100.0,
+          "progres": 44
+        },
+        "status_progress": true
+      },
+      "167402": {
+        "psu": "Reguler",
+        "1000445": 22139,
+        "1000446": 6477,
+        "1000447": 13364,
+        "progres": {
+          "total": 110,
+          "persen": 96.36,
+          "progres": 106
+        },
+        "status_progress": true
+      },
+      "167403": {
+        "psu": "Reguler",
+        "1000445": 6118,
+        "1000446": 915,
+        "1000447": 4728,
+        "progres": {
+          "total": 29,
+          "persen": 100.0,
+          "progres": 29
+        },
+        "status_progress": true
+      },
+      "167404": {
+        "psu": "Reguler",
+        "1000445": 5497,
+        "1000446": 946,
+        "1000447": 2049,
+        "progres": {
+          "total": 24,
+          "persen": 100.0,
+          "progres": 24
+        },
+        "status_progress": true
+      },
+      "167405": {
+        "psu": "Reguler",
+        "1000445": 9534,
+        "1000446": 2587,
+        "1000447": 5197,
+        "progres": {
+          "total": 44,
+          "persen": 100.0,
+          "progres": 44
+        },
+        "status_progress": true
+      },
+      "167406": {
+        "psu": "Reguler",
+        "1000445": 6999,
+        "1000446": 2297,
+        "1000447": 3618,
+        "progres": {
+          "total": 30,
+          "persen": 100.0,
+          "progres": 30
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 281,
+    "progres": 277
+  },
+  "ts": "2024-11-27 23:30:00"
+}

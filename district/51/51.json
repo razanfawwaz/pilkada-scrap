@@ -1,0 +1,56 @@
+[
+  {
+    "nama": "BADUNG",
+    "id": 191402,
+    "kode": "5103",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANGLI",
+    "id": 191405,
+    "kode": "5106",
+    "tingkat": 2
+  },
+  {
+    "nama": "BULELENG",
+    "id": 191407,
+    "kode": "5108",
+    "tingkat": 2
+  },
+  {
+    "nama": "GIANYAR",
+    "id": 191403,
+    "kode": "5104",
+    "tingkat": 2
+  },
+  {
+    "nama": "JEMBRANA",
+    "id": 155006,
+    "kode": "5101",
+    "tingkat": 2
+  },
+  {
+    "nama": "KARANGASEM",
+    "id": 191406,
+    "kode": "5107",
+    "tingkat": 2
+  },
+  {
+    "nama": "KLUNGKUNG",
+    "id": 191404,
+    "kode": "5105",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA DENPASAR",
+    "id": 191408,
+    "kode": "5171",
+    "tingkat": 2
+  },
+  {
+    "nama": "TABANAN",
+    "id": 191401,
+    "kode": "5102",
+    "tingkat": 2
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "nama": "HALMAHERA BARAT",
+    "id": 191545,
+    "kode": "8201",
+    "tingkat": 2
+  },
+  {
+    "nama": "HALMAHERA SELATAN",
+    "id": 191548,
+    "kode": "8204",
+    "tingkat": 2
+  },
+  {
+    "nama": "HALMAHERA TENGAH",
+    "id": 191546,
+    "kode": "8202",
+    "tingkat": 2
+  },
+  {
+    "nama": "HALMAHERA TIMUR",
+    "id": 191550,
+    "kode": "8206",
+    "tingkat": 2
+  },
+  {
+    "nama": "HALMAHERA UTARA",
+    "id": 191547,
+    "kode": "8203",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEPULAUAN SULA",
+    "id": 191549,
+    "kode": "8205",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TERNATE",
+    "id": 191544,
+    "kode": "8271",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA TIDORE KEPULAUAN",
+    "id": 191553,
+    "kode": "8272",
+    "tingkat": 2
+  },
+  {
+    "nama": "PULAU MOROTAI",
+    "id": 191551,
+    "kode": "8207",
+    "tingkat": 2
+  },
+  {
+    "nama": "PULAU TALIABU",
+    "id": 191552,
+    "kode": "8208",
+    "tingkat": 2
+  }
+]

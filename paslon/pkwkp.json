@@ -1,0 +1,700 @@
+{
+    "11": {
+        "1000001": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "BUSTAMI HAMZAH, S.E., M.Si. - Tgk. H. M. FADHIL RAHMI, Lc., M.Ag.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000002": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MUZAKIR MANAF - FADHLULLAH, S.E.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "75": {
+        "1000071": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. TONNY ULOLI, S.E., M.M. - Dr. H. MARTEN A. TAHA, S.E., M.Ec.Dev.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000072": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Prof. Dr. Ir. Hi. NELSON POMALINGO, M.Pd. - MOHAMAD KRIS WARTABONE, S.AP.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000073": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "HAMZAH ISA - H. ABDURRAHMAN ABUBAKAR BAHMID, LC., M.H.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000074": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. H. GUSNAR ISMAIL, M.M. - IDAH SYAHIDAH RUSLI HABIBIE",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "12": {
+        "1000003": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MUHAMMAD BOBBY AFIF NASUTION, S.E., M.M. - H. SURYA, B.Sc",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000004": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "EDY RAHMAYADI - HASAN BASRI SAGALA",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "13": {
+        "1000005": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. MAHYELDI, S.P - VASKO RUSEIMY, S.T",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000006": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Capt. H. EPYARDI ASDA, M.Mar - H. EKOS ALBAR, S.E., M.M",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "14": {
+        "1000007": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. ABDUL WAHID, S.Pd.I., M.Si. - Ir. H. SF HARIYANTO, M.T.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000008": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "M. NASIR - MUHAMMAD WARDAN",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000009": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. H. SYAMSUAR, M.Si. - Dr. H. MAWARDI MUHAMMAD SALEH, Lc., M.A.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "15": {
+        "1000010": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. ROMI HARIYANTO, S.E. - Letjen. (Purn.) Dr. SUDIRMAN, S.H., M.H., M.M.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000011": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. AL HARIS, S.Sos., M.H. - Drs. H. ABDULLAH SANI, M.Pd.I.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "16": {
+        "1000012": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. HERMAN DERU - H. CIK UJANG",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000013": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Ir. H. EDDY SANTANA PUTRA, M.T. - Dr. RIEZKY APRILIA, S.H., M.H.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000014": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Ir. H. MAWARDI YAHYA - Dr. Hj. R.A. ANITA NOERINGHATI, S.H., M.H.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "21": {
+        "1000021": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. ANSAR AHMAD, S.E., M.M. - NYANYANG HARIS PRATAMURA",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000022": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. MUHAMMAD RUDI - Dr. H. AUNUR RAFIQ, S.Sos., M.Si.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "17": {
+        "1000015": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. HELMI HASAN, S.E. - Ir. H. MIAN",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000016": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. ROHIDIN MERSYAH, M.M.A. - MERIANI, S.H.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "18": {
+        "1000017": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Ir. ARINAL DJUNAIDI - Ir. H. SUTONO, M.M.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000018": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "RAHMAT MIRZANI DJAUSAL, S.T., M.M. - dr. JIHAN NURLELA, M.M.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "19": {
+        "1000019": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. ERZALDI ROSMAN, S.E., M.M. - YURI KEMAL FADLULLAH, S.H., M.H.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000020": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "HIDAYAT ARSANI, S.E. - HELLYANA",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "31": {
+        "1000023": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. M. RIDWAN KAMIL - H. SUSWONO",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000024": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Komjen Pol. (Purn). DHARMA PONGREKUN, S.I.K., M.M., M.Hum. - Dr. Ir. R. KUN WARDANA ABYOTO, M.T.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000025": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. PRAMONO ANUNG WIBOWO, M.M. - H. RANO KARNO, S.IP. (SI DOEL)",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "32": {
+        "1000026": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. KH. ACEP ADANG RUHIAT, M.Si. - GITALIS DWINATARINA, S.Pd., M.Sos.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000027": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "JEJE WIRADINATA - RONAL SURAPRADJA",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000028": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "AHMAD SYAIKHU - ILHAM AKBAR HABIBIE",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000029": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. DEDI MULYADI, S.H., M.M. - H. ERWAN SETIAWAN, S.E.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "33": {
+        "1000030": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Jenderal TNI (Purn.) H. ANDIKA M PERKASA, S.E., M.A., M.Sc. - Dr. H. HENDRAR PRIHADI ALIAS HENDI, S.E., M.M.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000031": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "AHMAD LUTHFI - TAJ YASIN",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "35": {
+        "1000032": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Hj. LULUK NUR HAMIDAH, M.Si. - H. LUKMANUL KHAKIM, M.Si.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000033": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "KHOFIFAH INDAR PARAWANSA - EMIL ELESTIANTO DARDAK",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000034": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. (H.C) Ir. TRI RISMAHARINI, M.T. - ZAHRUL AZHAR ASUMTA GUS HANS, S.IP., M. Kes.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "36": {
+        "1000035": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Hj. AIRIN RACHMI DIANY, S.H., M.H. - H. ADE SUMARDI, S.E.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000036": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ANDRA SONI, S.M., M.AP - Dr. H. R. ACHMAD DIMYATI NATAKUSUMAH, S.H., M.H., M.Si",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "61": {
+        "1000045": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. SUTARMIDJI, S.H., M.Hum. - Irjen Pol (Purn) Dr. Drs. H. DIDI HARYONO, S.H., M.H.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000046": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. H. RIA NORSAN, M.M., M.H. - KRISANTUS KURNIAWAN, S.IP., M.Si.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000047": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MUDA MAHENDRAWAN, S.H. - Ir. JAKIUS SINYOR",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "62": {
+        "1000048": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. WILLY MIDEL YOSEPH, M.M. - HABIB ISMAIL BIN YAHYA, M.E.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000049": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. NADALSYAH KOYEM - SUPIAN HADI, S.Ikom., M.E.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000050": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "AGUSTIAR SABRAN A, S. Ikom. - H. EDY PRATOWO, S. Sos., M.M.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000051": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Ir. ABDUL RAZAK - Ir. H. SRI SUWANTO, M.S.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "51": {
+        "1000037": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MADE MULIAWAN ARYA, S.E., M.H. - PUTU AGUS SURADNYANA, S.T.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000038": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. WAYAN KOSTER, M.M. - I NYOMAN GIRI PRASTA, S.Sos.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "52": {
+        "1000039": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Hj. SITTI ROHMI DJALILAH - Dr. Ir. H. W. MUSYAFIRIN, M.M.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000040": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. ZULKIEFLIMANSYAH, S.E., M.Sc. - H. MOH. SUHAILI FADIL TOHIR, S.H., M.M.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000041": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. LALU MUHAMAD IQBAL, S.I.P., M.Si. - Hj. INDAH DHAMAYANTI PUTRI, S.E., M.I.P.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "53": {
+        "1000042": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "YOHANIS FRANSISKUS LEMA, S.IP., M.Si - JANE NATALIA SURYANTO",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000043": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "EMANUEL MELKIADES LAKA LENA, S.SI, A.pt - Drs. JOHNI ASADOMA, M.Hum",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000044": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "SIMON PETRUS KAMLASI - ADRIANUS GARU, SE., M.Si",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "63": {
+        "1000052": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. MUHIDIN - HASNURYADI SULAIMAN",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000053": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Hj. RAUDATUL JANNAH, SKM., M.Kes. - AKHMAD ROZANIE HIMAWAN NUGRAHA",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "64": {
+        "1000054": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. H. ISRAN NOOR, M.Si. - H. HADI MULYADI, S.Si., M.Si.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000055": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. RUDY MAS'UD, S.E., M.E. - Ir. H. SENO AJI, M. Si.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "65": {
+        "1000056": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Brigjen TNI (Purn.) SULAIMAN, S.Sos., M.H., M.M. - Prof. Dr. ADRI PATTON, M.Si.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000057": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. ZAINAL A PALIWANG, S.H., M.Hum. - INGKONG ALA, S.E., M.Si.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000058": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. YANSEN TP, M.Si. - Mayjen TNI (Purn.) H. SURATNO, S.I.P., M.I.Pol.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "71": {
+        "1000059": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MAYJEN TNI (Purn.) YULIUS SELVANUS, SE - Dr. JOHANNES VICTOR MAILANGKAY, SH, MH",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000060": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "dr. ELLY ENGELBERT LASUT, ME - HANNY JOOST PAJOUW, SE.Ak, ME",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000061": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. STEVEN OCTAVIANUS ESTEFANUS KANDOUW - LETJEN TNI (Purn.) ALFRET DENNY DJOIKE TUEJEH",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "72": {
+        "1000062": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "AHMAD H M. ALI - ABDUL KARIM AL JUFRI",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000063": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. ANWAR, S.Sos., M.Si. - dr. RENY A. LAMADJIDO, Sp.PK., M.Kes.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000064": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. RUSDY MASTURA (CUDY) - SULAIMAN AGUSTO",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "73": {
+        "1000065": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MOH. RAMDHAN POMANTO - H. AZHAR ARSYAD, S.H., M.H.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000066": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ANDI SUDIRMAN SULAIMAN - FATMAWATI RUSDI",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "74": {
+        "1000067": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. H. RUKSAMIN, S.T., M.Si., IPU., ASEAN Eng - Ir. H. LM. SJAFEI KAHAR, M.Si",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000068": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ANDI SUMANGERUKKA - Ir. HUGUA",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000069": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. LUKMAN ABUNAWAS - LAODE IDA",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000070": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dra. Hj. TINA NUR ALAM, M.M. - Ir. LA ODE MUHAMMAD IHSAN TAUFIK RIDWAN, S.T.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "76": {
+        "1000075": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ANDI IBRAHIM MASDAR - Dr. H. ASNUDDIN SOKONG, ST., SE., MM",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000076": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. MUHAMMAD ALI BAAL MASDAR, M.Si - H. ARWAN M ARAS T, S.Kom",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000077": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. SUHARDI DUKA, MM - SALIM S. MENGGA",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000078": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Prof. H. HUSAIN SYAM - Hj. ENNY ANGGRAENY ANWAR",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "93": {
+        "1000090": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "DARIUS GEWILOM, S.AP. - YUSAK YALUWO, S.H., M.Si.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000091": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "NIKOLAUS KONDOMO, S.H., M.H. - Haji BAIDIN KURITA, S.Sos.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000092": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. ROMANUS MBARAKA, M.T. - ALBERTUS MUYAK, S.E., M.Si.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000093": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Ir. APOLO SAFANPO, S.T., M.T. - PASKALIS IMADAWA, S.Pd.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "81": {
+        "1000079": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Letjen. (Purn.) JEFFRY A. RAHAWARIN - ABD. MUKTI KELIOBAS",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000080": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Irjen. Pol. (Purn.) Drs. MURAD ISMAIL - Dr. MICHAEL WATTIMENA, S.E., S.H., M.M.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000081": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "HENDRIK LEWERISSA, S.H., LL.M. - ABDULLAH VANATH, S.Sos.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        }
+    },
+    "82": {
+        "1000082": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "H. HUSAIN ALTING SJAH, S.E., M.M. - ASRUL RASYID ICHSAN, S.T.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000083": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ALIONG MUS, S.T. - SAHRIL THAHIR",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000084": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. H. MUHAMMAD KASUBA, M.A. - BASRI SALAMA, S.Pd.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000085": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "SHERLY TJOANDA - SARBIN SEHE, S.Ag., M.Pd.I.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "91": {
+        "1000086": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. Drs. BENHUR TOMI MANO,\u00a0M.M. - YERMIAS BISAI,\u00a0S.H.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000087": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MATIUS FAKHIRI, S.I.K. - ARYOKO ALBERTO FERDINAND RUMAROPEN, S.P.,\u00a0M.Eng.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "92": {
+        "1000088": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Drs. DOMINGGUS MANDACAN, M.Si. - MOHAMAD LAKOTANI, S.H., M.Si.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000089": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "KOLOM KOSONG - ",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "94": {
+        "1000094": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "WEMPI WETIPO, S.H., M.H. - AGUSTINUS ANGGAIBAK, S.M.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000095": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "NATALIS TABUNI, S.S., M.Si. - TITUS NATKIME, S.H., M.H.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000096": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "MEKI NAWIPA, S.H. - DEINAS GELEY, S.Sos., M.Si.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000097": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "WILLEM WANDIK, S.E., M.Si. - drg. ALOISIUS GIYAI, M.Kes.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        }
+    },
+    "95": {
+        "1000098": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "DR. HC. JOHN TABO, SE., M.BA. - Dr. ONES PAHABOL, S.E., MM.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000099": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "BEFA YIGIBALOM, S.E., M.Si. - NATAN PAHABOL, S.Pd.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        }
+    },
+    "96": {
+        "1000100": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ABDUL FARIS UMLATI, S.E., M.M., M.Pd. - Dr. Ir. PETRUS KASIHIW., M.T.",
+            "warna": "#B67352",
+            "nomor_urut": 1
+        },
+        "1000101": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "GABRIEL ASEM, S.E., M.Si. - LUKMAN WUGAJE, S.H.",
+            "warna": "#8CB9BD",
+            "nomor_urut": 2
+        },
+        "1000102": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "ELISA KAMBU, S.Sos. - AHMAD NAUSRAU, S.Pd.I.",
+            "warna": "#C7B7A3",
+            "nomor_urut": 3
+        },
+        "1000103": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "LETJEN TNI (Purn) JOPPYE ONESIMUS WAYANGKAU - IBRAHIM WUGAJE, S.IP.",
+            "warna": "#F4CBCC",
+            "nomor_urut": 4
+        },
+        "1000104": {
+            "ts": "2024-11-21 21:55:15",
+            "nama": "Dr. BERNARD SAGRIM, Drs., M.M. - SIRAJUDIN BAUW, S.Ag., M.MPd.",
+            "warna": "#A37E4B",
+            "nomor_urut": 5
+        }
+    }
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "nama": "BANGKALAN",
+    "id": 191355,
+    "kode": "3526",
+    "tingkat": 2
+  },
+  {
+    "nama": "BANYUWANGI",
+    "id": 191339,
+    "kode": "3510",
+    "tingkat": 2
+  },
+  {
+    "nama": "BLITAR",
+    "id": 145121,
+    "kode": "3505",
+    "tingkat": 2
+  },
+  {
+    "nama": "BOJONEGORO",
+    "id": 191351,
+    "kode": "3522",
+    "tingkat": 2
+  },
+  {
+    "nama": "BONDOWOSO",
+    "id": 191340,
+    "kode": "3511",
+    "tingkat": 2
+  },
+  {
+    "nama": "GRESIK",
+    "id": 191354,
+    "kode": "3525",
+    "tingkat": 2
+  },
+  {
+    "nama": "JEMBER",
+    "id": 191338,
+    "kode": "3509",
+    "tingkat": 2
+  },
+  {
+    "nama": "JOMBANG",
+    "id": 191346,
+    "kode": "3517",
+    "tingkat": 2
+  },
+  {
+    "nama": "KEDIRI",
+    "id": 191335,
+    "kode": "3506",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BATU",
+    "id": 191367,
+    "kode": "3579",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA BLITAR",
+    "id": 191360,
+    "kode": "3572",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA KEDIRI",
+    "id": 191359,
+    "kode": "3571",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MADIUN",
+    "id": 191365,
+    "kode": "3577",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MALANG",
+    "id": 191361,
+    "kode": "3573",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA MOJOKERTO",
+    "id": 191364,
+    "kode": "3576",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PASURUAN",
+    "id": 191363,
+    "kode": "3575",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA PROBOLINGGO",
+    "id": 191362,
+    "kode": "3574",
+    "tingkat": 2
+  },
+  {
+    "nama": "KOTA SURABAYA",
+    "id": 191366,
+    "kode": "3578",
+    "tingkat": 2
+  },
+  {
+    "nama": "LAMONGAN",
+    "id": 191353,
+    "kode": "3524",
+    "tingkat": 2
+  },
+  {
+    "nama": "LUMAJANG",
+    "id": 191337,
+    "kode": "3508",
+    "tingkat": 2
+  },
+  {
+    "nama": "MADIUN",
+    "id": 191348,
+    "kode": "3519",
+    "tingkat": 2
+  },
+  {
+    "nama": "MAGETAN",
+    "id": 191349,
+    "kode": "3520",
+    "tingkat": 2
+  },
+  {
+    "nama": "MALANG",
+    "id": 191336,
+    "kode": "3507",
+    "tingkat": 2
+  },
+  {
+    "nama": "MOJOKERTO",
+    "id": 191345,
+    "kode": "3516",
+    "tingkat": 2
+  },
+  {
+    "nama": "NGANJUK",
+    "id": 191347,
+    "kode": "3518",
+    "tingkat": 2
+  },
+  {
+    "nama": "NGAWI",
+    "id": 191350,
+    "kode": "3521",
+    "tingkat": 2
+  },
+  {
+    "nama": "PACITAN",
+    "id": 191331,
+    "kode": "3501",
+    "tingkat": 2
+  },
+  {
+    "nama": "PAMEKASAN",
+    "id": 191357,
+    "kode": "3528",
+    "tingkat": 2
+  },
+  {
+    "nama": "PASURUAN",
+    "id": 191343,
+    "kode": "3514",
+    "tingkat": 2
+  },
+  {
+    "nama": "PONOROGO",
+    "id": 191332,
+    "kode": "3502",
+    "tingkat": 2
+  },
+  {
+    "nama": "PROBOLINGGO",
+    "id": 191342,
+    "kode": "3513",
+    "tingkat": 2
+  },
+  {
+    "nama": "SAMPANG",
+    "id": 191356,
+    "kode": "3527",
+    "tingkat": 2
+  },
+  {
+    "nama": "SIDOARJO",
+    "id": 191344,
+    "kode": "3515",
+    "tingkat": 2
+  },
+  {
+    "nama": "SITUBONDO",
+    "id": 191341,
+    "kode": "3512",
+    "tingkat": 2
+  },
+  {
+    "nama": "SUMENEP",
+    "id": 191358,
+    "kode": "3529",
+    "tingkat": 2
+  },
+  {
+    "nama": "TRENGGALEK",
+    "id": 191333,
+    "kode": "3503",
+    "tingkat": 2
+  },
+  {
+    "nama": "TUBAN",
+    "id": 191352,
+    "kode": "3523",
+    "tingkat": 2
+  },
+  {
+    "nama": "TULUNGAGUNG",
+    "id": 191334,
+    "kode": "3504",
+    "tingkat": 2
+  }
+]
