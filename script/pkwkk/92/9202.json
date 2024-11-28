@@ -3,22 +3,22 @@
   "tungsura": {
     "chart": {
       "1001481": 38406,
-      "1001482": 45683,
+      "1001482": 45765,
       "progres": {
         "total": 422,
-        "persen": 84.83,
-        "progres": 358
+        "persen": 85.07,
+        "progres": 359
       }
     },
     "table": {
       "920203": {
         "psu": "Reguler",
         "1001481": 1213,
-        "1001482": 3517,
+        "1001482": 3599,
         "progres": {
           "total": 31,
-          "persen": 74.19,
-          "progres": 23
+          "persen": 77.42,
+          "progres": 24
         },
         "status_progress": true
       },
@@ -115,7 +115,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 422,
-    "progres": 358
+    "progres": 359
   },
-  "ts": "2024-11-28 08:15:00"
+  "ts": "2024-11-28 10:00:05"
 }

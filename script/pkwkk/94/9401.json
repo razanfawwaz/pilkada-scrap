@@ -2,12 +2,12 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1001513": 19509,
-      "1001514": 34137,
+      "1001513": 19981,
+      "1001514": 34697,
       "progres": {
         "total": 317,
-        "persen": 42.59,
-        "progres": 135
+        "persen": 43.85,
+        "progres": 139
       }
     },
     "table": {
@@ -17,8 +17,8 @@
         "1001514": 21994,
         "progres": {
           "total": 162,
-          "persen": 50.62,
-          "progres": 82
+          "persen": 51.23,
+          "progres": 83
         },
         "status_progress": true
       },
@@ -75,12 +75,12 @@
       },
       "940107": {
         "psu": "Reguler",
-        "1001513": 1483,
-        "1001514": 3229,
+        "1001513": 1647,
+        "1001514": 3470,
         "progres": {
           "total": 16,
-          "persen": 81.25,
-          "progres": 13
+          "persen": 87.5,
+          "progres": 14
         },
         "status_progress": true
       },
@@ -128,12 +128,12 @@
       },
       "940112": {
         "psu": "Reguler",
-        "1001513": 2193,
-        "1001514": 2280,
+        "1001513": 2501,
+        "1001514": 2599,
         "progres": {
           "total": 28,
-          "persen": 39.29,
-          "progres": 11
+          "persen": 46.43,
+          "progres": 13
         },
         "status_progress": true
       },
@@ -169,7 +169,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 317,
-    "progres": 135
+    "progres": 139
   },
-  "ts": "2024-11-28 08:15:00"
+  "ts": "2024-11-28 10:15:04"
 }

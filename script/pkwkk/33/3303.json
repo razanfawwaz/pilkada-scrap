@@ -2,12 +2,12 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1000636": 207993,
-      "1000637": 332262,
+      "1000636": 208766,
+      "1000637": 333271,
       "progres": {
         "total": 1525,
-        "persen": 98.82,
-        "progres": 1507
+        "persen": 99.21,
+        "progres": 1513
       }
     },
     "table": {
@@ -57,23 +57,23 @@
       },
       "330305": {
         "psu": "Reguler",
-        "1000636": 10941,
-        "1000637": 20482,
+        "1000636": 10970,
+        "1000637": 20544,
         "progres": {
           "total": 86,
-          "persen": 96.51,
-          "progres": 83
+          "persen": 97.67,
+          "progres": 84
         },
         "status_progress": true
       },
       "330306": {
         "psu": "Reguler",
-        "1000636": 11302,
-        "1000637": 21172,
+        "1000636": 11451,
+        "1000637": 21437,
         "progres": {
           "total": 83,
-          "persen": 98.8,
-          "progres": 82
+          "persen": 100.0,
+          "progres": 83
         },
         "status_progress": true
       },
@@ -167,12 +167,12 @@
       },
       "330315": {
         "psu": "Reguler",
-        "1000636": 9285,
-        "1000637": 15315,
+        "1000636": 9610,
+        "1000637": 15838,
         "progres": {
           "total": 67,
-          "persen": 92.54,
-          "progres": 62
+          "persen": 95.52,
+          "progres": 64
         },
         "status_progress": true
       },
@@ -189,12 +189,12 @@
       },
       "330317": {
         "psu": "Reguler",
-        "1000636": 7174,
-        "1000637": 6302,
+        "1000636": 7444,
+        "1000637": 6461,
         "progres": {
           "total": 53,
-          "persen": 92.45,
-          "progres": 49
+          "persen": 96.23,
+          "progres": 51
         },
         "status_progress": true
       },
@@ -214,7 +214,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 1525,
-    "progres": 1507
+    "progres": 1513
   },
-  "ts": "2024-11-28 07:30:00"
+  "ts": "2024-11-28 09:45:00"
 }

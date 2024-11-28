@@ -2,23 +2,23 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1000021": 17035,
-      "1000022": 8825,
+      "1000021": 17515,
+      "1000022": 9100,
       "progres": {
         "total": 112,
-        "persen": 92.86,
-        "progres": 104
+        "persen": 94.64,
+        "progres": 106
       }
     },
     "table": {
       "210501": {
         "psu": "Reguler",
-        "1000021": 4032,
-        "1000022": 2002,
+        "1000021": 4512,
+        "1000022": 2277,
         "progres": {
           "total": 26,
-          "persen": 88.46,
-          "progres": 23
+          "persen": 96.15,
+          "progres": 25
         },
         "status_progress": true
       },
@@ -126,7 +126,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 112,
-    "progres": 104
+    "progres": 106
   },
-  "ts": "2024-11-28 03:30:00"
+  "ts": "2024-11-28 09:15:00"
 }

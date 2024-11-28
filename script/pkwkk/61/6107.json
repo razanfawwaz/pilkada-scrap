@@ -2,23 +2,23 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1000985": 76650,
-      "1000986": 31148,
+      "1000985": 77266,
+      "1000986": 31425,
       "progres": {
         "total": 615,
-        "persen": 98.05,
-        "progres": 603
+        "persen": 99.02,
+        "progres": 609
       }
     },
     "table": {
       "610701": {
         "psu": "Reguler",
-        "1000985": 4995,
-        "1000986": 2462,
+        "1000985": 5155,
+        "1000986": 2518,
         "progres": {
           "total": 38,
-          "persen": 97.37,
-          "progres": 37
+          "persen": 100.0,
+          "progres": 38
         },
         "status_progress": true
       },
@@ -35,12 +35,12 @@
       },
       "610703": {
         "psu": "Reguler",
-        "1000985": 4710,
-        "1000986": 1844,
+        "1000985": 4757,
+        "1000986": 1865,
         "progres": {
           "total": 38,
-          "persen": 94.74,
-          "progres": 36
+          "persen": 100.0,
+          "progres": 38
         },
         "status_progress": true
       },
@@ -101,12 +101,12 @@
       },
       "610709": {
         "psu": "Reguler",
-        "1000985": 4311,
-        "1000986": 2030,
+        "1000985": 4651,
+        "1000986": 2173,
         "progres": {
           "total": 41,
-          "persen": 90.24,
-          "progres": 37
+          "persen": 95.12,
+          "progres": 39
         },
         "status_progress": true
       },
@@ -167,12 +167,12 @@
       },
       "610715": {
         "psu": "Reguler",
-        "1000985": 6235,
-        "1000986": 2112,
+        "1000985": 6304,
+        "1000986": 2169,
         "progres": {
           "total": 54,
-          "persen": 98.15,
-          "progres": 53
+          "persen": 100.0,
+          "progres": 54
         },
         "status_progress": true
       },
@@ -203,7 +203,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 615,
-    "progres": 603
+    "progres": 609
   },
-  "ts": "2024-11-28 08:15:00"
+  "ts": "2024-11-28 10:15:04"
 }
