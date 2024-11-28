@@ -2,12 +2,12 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1000537": 32947,
-      "1000538": 17887,
+      "1000537": 33615,
+      "1000538": 18476,
       "progres": {
         "total": 233,
-        "persen": 97.42,
-        "progres": 227
+        "persen": 100.0,
+        "progres": 233
       }
     },
     "table": {
@@ -24,12 +24,12 @@
       },
       "210402": {
         "psu": "Reguler",
-        "1000537": 4380,
-        "1000538": 2475,
+        "1000537": 4524,
+        "1000538": 2595,
         "progres": {
           "total": 26,
-          "persen": 96.15,
-          "progres": 25
+          "persen": 100.0,
+          "progres": 26
         },
         "status_progress": true
       },
@@ -46,23 +46,23 @@
       },
       "210404": {
         "psu": "Reguler",
-        "1000537": 3937,
-        "1000538": 2340,
+        "1000537": 4200,
+        "1000538": 2559,
         "progres": {
           "total": 31,
-          "persen": 93.55,
-          "progres": 29
+          "persen": 100.0,
+          "progres": 31
         },
         "status_progress": true
       },
       "210405": {
         "psu": "Reguler",
-        "1000537": 3609,
-        "1000538": 1849,
+        "1000537": 3736,
+        "1000538": 2031,
         "progres": {
           "total": 28,
-          "persen": 92.86,
-          "progres": 26
+          "persen": 100.0,
+          "progres": 28
         },
         "status_progress": true
       },
@@ -79,12 +79,12 @@
       },
       "210407": {
         "psu": "Reguler",
-        "1000537": 1825,
-        "1000538": 977,
+        "1000537": 1959,
+        "1000538": 1045,
         "progres": {
           "total": 14,
-          "persen": 92.86,
-          "progres": 13
+          "persen": 100.0,
+          "progres": 14
         },
         "status_progress": true
       },
@@ -159,7 +159,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 233,
-    "progres": 227
+    "progres": 233
   },
-  "ts": "2024-11-28 00:15:00"
+  "ts": "2024-11-28 10:00:05"
 }

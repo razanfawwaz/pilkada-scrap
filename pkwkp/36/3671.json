@@ -2,12 +2,12 @@
   "mode": "hhcw",
   "tungsura": {
     "chart": {
-      "1000035": 312274,
-      "1000036": 435251,
+      "1000035": 312803,
+      "1000036": 435986,
       "progres": {
         "total": 2706,
-        "persen": 98.6,
-        "progres": 2668
+        "persen": 98.78,
+        "progres": 2673
       }
     },
     "table": {
@@ -79,34 +79,34 @@
       },
       "367107": {
         "psu": "Reguler",
-        "1000035": 29603,
-        "1000036": 43555,
+        "1000035": 29735,
+        "1000036": 43801,
         "progres": {
           "total": 266,
-          "persen": 96.62,
-          "progres": 257
+          "persen": 96.99,
+          "progres": 258
         },
         "status_progress": true
       },
       "367108": {
         "psu": "Reguler",
-        "1000035": 20243,
-        "1000036": 34532,
+        "1000035": 20339,
+        "1000036": 34711,
         "progres": {
           "total": 192,
-          "persen": 96.88,
-          "progres": 186
+          "persen": 97.4,
+          "progres": 187
         },
         "status_progress": true
       },
       "367109": {
         "psu": "Reguler",
-        "1000035": 23393,
-        "1000036": 30867,
+        "1000035": 23516,
+        "1000036": 31017,
         "progres": {
           "total": 225,
-          "persen": 98.22,
-          "progres": 221
+          "persen": 98.67,
+          "progres": 222
         },
         "status_progress": true
       },
@@ -145,12 +145,12 @@
       },
       "367113": {
         "psu": "Reguler",
-        "1000035": 23431,
-        "1000036": 38217,
+        "1000035": 23609,
+        "1000036": 38377,
         "progres": {
           "total": 235,
-          "persen": 98.3,
-          "progres": 231
+          "persen": 99.15,
+          "progres": 233
         },
         "status_progress": true
       }
@@ -159,7 +159,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 2706,
-    "progres": 2668
+    "progres": 2673
   },
-  "ts": "2024-11-28 00:15:00"
+  "ts": "2024-11-28 10:00:05"
 }

@@ -3,11 +3,11 @@
   "tungsura": {
     "chart": {
       "1000098": 60,
-      "1000099": 613,
+      "1000099": 2361,
       "progres": {
         "total": 453,
-        "persen": 0.44,
-        "progres": 2
+        "persen": 1.55,
+        "progres": 7
       }
     },
     "table": {
@@ -349,11 +349,11 @@
       "950738": {
         "psu": "Reguler",
         "1000098": 0,
-        "1000099": 357,
+        "1000099": 2105,
         "progres": {
           "total": 16,
-          "persen": 6.25,
-          "progres": 1
+          "persen": 37.5,
+          "progres": 6
         },
         "status_progress": true
       },
@@ -371,7 +371,7 @@
   "psu": "Reguler",
   "progres": {
     "total": 453,
-    "progres": 2
+    "progres": 7
   },
-  "ts": "2024-11-28 00:45:00"
+  "ts": "2024-11-28 09:30:00"
 }
