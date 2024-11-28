@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001013": 12422,
+      "1001014": 10890,
+      "1001015": 40160,
+      "progres": {
+        "total": 234,
+        "persen": 97.44,
+        "progres": 228
+      }
+    },
+    "table": {
+      "620401": {
+        "psu": "Reguler",
+        "1001013": 2366,
+        "1001014": 456,
+        "1001015": 1555,
+        "progres": {
+          "total": 14,
+          "persen": 100.0,
+          "progres": 14
+        },
+        "status_progress": true
+      },
+      "620402": {
+        "psu": "Reguler",
+        "1001013": 1553,
+        "1001014": 1680,
+        "1001015": 5623,
+        "progres": {
+          "total": 31,
+          "persen": 100.0,
+          "progres": 31
+        },
+        "status_progress": true
+      },
+      "620403": {
+        "psu": "Reguler",
+        "1001013": 725,
+        "1001014": 2070,
+        "1001015": 5254,
+        "progres": {
+          "total": 26,
+          "persen": 96.15,
+          "progres": 25
+        },
+        "status_progress": true
+      },
+      "620404": {
+        "psu": "Reguler",
+        "1001013": 1281,
+        "1001014": 946,
+        "1001015": 4615,
+        "progres": {
+          "total": 33,
+          "persen": 93.94,
+          "progres": 31
+        },
+        "status_progress": true
+      },
+      "620405": {
+        "psu": "Reguler",
+        "1001013": 1633,
+        "1001014": 1604,
+        "1001015": 6043,
+        "progres": {
+          "total": 39,
+          "persen": 100.0,
+          "progres": 39
+        },
+        "status_progress": true
+      },
+      "620406": {
+        "psu": "Reguler",
+        "1001013": 4864,
+        "1001014": 4134,
+        "1001015": 17070,
+        "progres": {
+          "total": 91,
+          "persen": 96.7,
+          "progres": 88
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 234,
+    "progres": 228
+  },
+  "ts": "2024-11-28 07:15:00"
+}

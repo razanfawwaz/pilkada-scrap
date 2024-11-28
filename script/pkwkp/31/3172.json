@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000023": 260353,
+      "1000024": 76635,
+      "1000025": 326887,
+      "progres": {
+        "total": 2386,
+        "persen": 99.5,
+        "progres": 2374
+      }
+    },
+    "table": {
+      "317201": {
+        "psu": "Reguler",
+        "1000023": 40474,
+        "1000024": 13598,
+        "1000025": 55502,
+        "progres": {
+          "total": 432,
+          "persen": 97.69,
+          "progres": 422
+        },
+        "status_progress": true
+      },
+      "317202": {
+        "psu": "Reguler",
+        "1000023": 57679,
+        "1000024": 18159,
+        "1000025": 77877,
+        "progres": {
+          "total": 530,
+          "persen": 100.0,
+          "progres": 530
+        },
+        "status_progress": true
+      },
+      "317203": {
+        "psu": "Reguler",
+        "1000023": 52843,
+        "1000024": 13374,
+        "1000025": 57419,
+        "progres": {
+          "total": 438,
+          "persen": 100.0,
+          "progres": 438
+        },
+        "status_progress": true
+      },
+      "317204": {
+        "psu": "Reguler",
+        "1000023": 71627,
+        "1000024": 17542,
+        "1000025": 69881,
+        "progres": {
+          "total": 570,
+          "persen": 99.65,
+          "progres": 568
+        },
+        "status_progress": true
+      },
+      "317205": {
+        "psu": "Reguler",
+        "1000023": 20877,
+        "1000024": 6659,
+        "1000025": 32540,
+        "progres": {
+          "total": 222,
+          "persen": 100.0,
+          "progres": 222
+        },
+        "status_progress": true
+      },
+      "317206": {
+        "psu": "Reguler",
+        "1000023": 16853,
+        "1000024": 7303,
+        "1000025": 33668,
+        "progres": {
+          "total": 194,
+          "persen": 100.0,
+          "progres": 194
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 2386,
+    "progres": 2374
+  },
+  "ts": "2024-11-28 05:15:00"
+}

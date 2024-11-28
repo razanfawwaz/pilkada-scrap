@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001436": 17462,
+      "1001437": 3139,
+      "1001438": 18951,
+      "progres": {
+        "total": 140,
+        "persen": 89.29,
+        "progres": 125
+      }
+    },
+    "table": {
+      "820701": {
+        "psu": "Reguler",
+        "1001436": 4322,
+        "1001437": 1256,
+        "1001438": 7360,
+        "progres": {
+          "total": 51,
+          "persen": 78.43,
+          "progres": 40
+        },
+        "status_progress": true
+      },
+      "820702": {
+        "psu": "Reguler",
+        "1001436": 2642,
+        "1001437": 377,
+        "1001438": 2384,
+        "progres": {
+          "total": 19,
+          "persen": 100.0,
+          "progres": 19
+        },
+        "status_progress": true
+      },
+      "820703": {
+        "psu": "Reguler",
+        "1001436": 2927,
+        "1001437": 518,
+        "1001438": 2308,
+        "progres": {
+          "total": 20,
+          "persen": 100.0,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "820704": {
+        "psu": "Reguler",
+        "1001436": 2853,
+        "1001437": 383,
+        "1001438": 3348,
+        "progres": {
+          "total": 21,
+          "persen": 95.24,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "820705": {
+        "psu": "Reguler",
+        "1001436": 2659,
+        "1001437": 377,
+        "1001438": 2928,
+        "progres": {
+          "total": 20,
+          "persen": 85.0,
+          "progres": 17
+        },
+        "status_progress": true
+      },
+      "820706": {
+        "psu": "Reguler",
+        "1001436": 2059,
+        "1001437": 228,
+        "1001438": 623,
+        "progres": {
+          "total": 9,
+          "persen": 100.0,
+          "progres": 9
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 140,
+    "progres": 125
+  },
+  "ts": "2024-11-28 08:00:00"
+}

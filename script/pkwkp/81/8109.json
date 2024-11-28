@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000079": 7086,
+      "1000080": 12587,
+      "1000081": 16326,
+      "progres": {
+        "total": 158,
+        "persen": 86.08,
+        "progres": 136
+      }
+    },
+    "table": {
+      "810901": {
+        "psu": "Reguler",
+        "1000079": 2339,
+        "1000080": 3868,
+        "1000081": 4143,
+        "progres": {
+          "total": 42,
+          "persen": 97.62,
+          "progres": 41
+        },
+        "status_progress": true
+      },
+      "810902": {
+        "psu": "Reguler",
+        "1000079": 1573,
+        "1000080": 2364,
+        "1000081": 3456,
+        "progres": {
+          "total": 36,
+          "persen": 83.33,
+          "progres": 30
+        },
+        "status_progress": true
+      },
+      "810903": {
+        "psu": "Reguler",
+        "1000079": 89,
+        "1000080": 900,
+        "1000081": 2829,
+        "progres": {
+          "total": 15,
+          "persen": 80.0,
+          "progres": 12
+        },
+        "status_progress": true
+      },
+      "810904": {
+        "psu": "Reguler",
+        "1000079": 1356,
+        "1000080": 3572,
+        "1000081": 2281,
+        "progres": {
+          "total": 26,
+          "persen": 100.0,
+          "progres": 26
+        },
+        "status_progress": true
+      },
+      "810905": {
+        "psu": "Reguler",
+        "1000079": 1355,
+        "1000080": 1552,
+        "1000081": 2966,
+        "progres": {
+          "total": 28,
+          "persen": 71.43,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "810906": {
+        "psu": "Reguler",
+        "1000079": 374,
+        "1000080": 331,
+        "1000081": 651,
+        "progres": {
+          "total": 11,
+          "persen": 63.64,
+          "progres": 7
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 158,
+    "progres": 136
+  },
+  "ts": "2024-11-28 08:15:00"
+}

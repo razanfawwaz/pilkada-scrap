@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1000059": 24039,
+      "1000060": 15622,
+      "1000061": 13096,
+      "progres": {
+        "total": 159,
+        "persen": 100.0,
+        "progres": 159
+      }
+    },
+    "table": {
+      "710801": {
+        "psu": "Reguler",
+        "1000059": 2478,
+        "1000060": 2182,
+        "1000061": 1671,
+        "progres": {
+          "total": 21,
+          "persen": 100.0,
+          "progres": 21
+        },
+        "status_progress": true
+      },
+      "710802": {
+        "psu": "Reguler",
+        "1000059": 2711,
+        "1000060": 5113,
+        "1000061": 1357,
+        "progres": {
+          "total": 27,
+          "persen": 100.0,
+          "progres": 27
+        },
+        "status_progress": true
+      },
+      "710803": {
+        "psu": "Reguler",
+        "1000059": 4517,
+        "1000060": 2994,
+        "1000061": 1936,
+        "progres": {
+          "total": 28,
+          "persen": 100.0,
+          "progres": 28
+        },
+        "status_progress": true
+      },
+      "710804": {
+        "psu": "Reguler",
+        "1000059": 5382,
+        "1000060": 2029,
+        "1000061": 3201,
+        "progres": {
+          "total": 32,
+          "persen": 100.0,
+          "progres": 32
+        },
+        "status_progress": true
+      },
+      "710805": {
+        "psu": "Reguler",
+        "1000059": 4219,
+        "1000060": 1960,
+        "1000061": 3305,
+        "progres": {
+          "total": 27,
+          "persen": 100.0,
+          "progres": 27
+        },
+        "status_progress": true
+      },
+      "710806": {
+        "psu": "Reguler",
+        "1000059": 4732,
+        "1000060": 1344,
+        "1000061": 1626,
+        "progres": {
+          "total": 24,
+          "persen": 100.0,
+          "progres": 24
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 159,
+    "progres": 159
+  },
+  "ts": "2024-11-28 02:45:00"
+}

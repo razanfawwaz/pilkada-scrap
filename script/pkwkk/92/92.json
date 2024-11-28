@@ -1,0 +1,100 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "progres": {
+        "total": 1341,
+        "persen": 64.43,
+        "progres": 864
+      }
+    },
+    "table": {
+      "9202": {
+        "psu": "Reguler",
+        "1001481": 38406,
+        "1001482": 45683,
+        "progres": {
+          "total": 422,
+          "persen": 84.83,
+          "progres": 358
+        },
+        "status_progress": true
+      },
+      "9203": {
+        "psu": "Reguler",
+        "1001483": 17333,
+        "1001484": 21256,
+        "progres": {
+          "total": 216,
+          "persen": 81.02,
+          "progres": 175
+        },
+        "status_progress": true
+      },
+      "9206": {
+        "psu": "Reguler",
+        "1001485": 6163,
+        "1001486": 4950,
+        "1001487": 1161,
+        "progres": {
+          "total": 187,
+          "persen": 31.02,
+          "progres": 58
+        },
+        "status_progress": true
+      },
+      "9207": {
+        "psu": "Reguler",
+        "1001488": 10185,
+        "1001489": 7378,
+        "progres": {
+          "total": 102,
+          "persen": 83.33,
+          "progres": 85
+        },
+        "status_progress": true
+      },
+      "9208": {
+        "psu": "Reguler",
+        "1001490": 9747,
+        "1001491": 9380,
+        "progres": {
+          "total": 150,
+          "persen": 54.0,
+          "progres": 81
+        },
+        "status_progress": true
+      },
+      "9211": {
+        "psu": "Reguler",
+        "1001492": 5921,
+        "1001493": 3201,
+        "1001494": 2885,
+        "1001495": 2162,
+        "progres": {
+          "total": 98,
+          "persen": 52.04,
+          "progres": 51
+        },
+        "status_progress": true
+      },
+      "9212": {
+        "psu": "Reguler",
+        "1001496": 2148,
+        "1001497": 9093,
+        "progres": {
+          "total": 166,
+          "persen": 33.73,
+          "progres": 56
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 1341,
+    "progres": 864
+  },
+  "ts": "2024-11-28 08:30:00"
+}

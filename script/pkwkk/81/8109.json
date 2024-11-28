@@ -1,0 +1,95 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001405": 13520,
+      "1001406": 11022,
+      "1001407": 12445,
+      "progres": {
+        "total": 158,
+        "persen": 87.97,
+        "progres": 139
+      }
+    },
+    "table": {
+      "810901": {
+        "psu": "Reguler",
+        "1001405": 3800,
+        "1001406": 2584,
+        "1001407": 3946,
+        "progres": {
+          "total": 42,
+          "persen": 97.62,
+          "progres": 41
+        },
+        "status_progress": true
+      },
+      "810902": {
+        "psu": "Reguler",
+        "1001405": 2891,
+        "1001406": 2304,
+        "1001407": 2891,
+        "progres": {
+          "total": 36,
+          "persen": 88.89,
+          "progres": 32
+        },
+        "status_progress": true
+      },
+      "810903": {
+        "psu": "Reguler",
+        "1001405": 1653,
+        "1001406": 1145,
+        "1001407": 1052,
+        "progres": {
+          "total": 15,
+          "persen": 80.0,
+          "progres": 12
+        },
+        "status_progress": true
+      },
+      "810904": {
+        "psu": "Reguler",
+        "1001405": 3392,
+        "1001406": 2189,
+        "1001407": 1644,
+        "progres": {
+          "total": 26,
+          "persen": 100.0,
+          "progres": 26
+        },
+        "status_progress": true
+      },
+      "810905": {
+        "psu": "Reguler",
+        "1001405": 1585,
+        "1001406": 2029,
+        "1001407": 2257,
+        "progres": {
+          "total": 28,
+          "persen": 71.43,
+          "progres": 20
+        },
+        "status_progress": true
+      },
+      "810906": {
+        "psu": "Reguler",
+        "1001405": 199,
+        "1001406": 771,
+        "1001407": 655,
+        "progres": {
+          "total": 11,
+          "persen": 72.73,
+          "progres": 8
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 158,
+    "progres": 139
+  },
+  "ts": "2024-11-28 08:00:00"
+}

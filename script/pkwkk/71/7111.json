@@ -1,0 +1,99 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001143": 14105,
+      "1001144": 33356,
+      "progres": {
+        "total": 126,
+        "persen": 100.0,
+        "progres": 126
+      }
+    },
+    "table": {
+      "711101": {
+        "psu": "Reguler",
+        "1001143": 4670,
+        "1001144": 7026,
+        "progres": {
+          "total": 29,
+          "persen": 100.0,
+          "progres": 29
+        },
+        "status_progress": true
+      },
+      "711102": {
+        "psu": "Reguler",
+        "1001143": 2308,
+        "1001144": 7773,
+        "progres": {
+          "total": 27,
+          "persen": 100.0,
+          "progres": 27
+        },
+        "status_progress": true
+      },
+      "711103": {
+        "psu": "Reguler",
+        "1001143": 2632,
+        "1001144": 4884,
+        "progres": {
+          "total": 18,
+          "persen": 100.0,
+          "progres": 18
+        },
+        "status_progress": true
+      },
+      "711104": {
+        "psu": "Reguler",
+        "1001143": 1363,
+        "1001144": 2923,
+        "progres": {
+          "total": 13,
+          "persen": 100.0,
+          "progres": 13
+        },
+        "status_progress": true
+      },
+      "711105": {
+        "psu": "Reguler",
+        "1001143": 1454,
+        "1001144": 3894,
+        "progres": {
+          "total": 15,
+          "persen": 100.0,
+          "progres": 15
+        },
+        "status_progress": true
+      },
+      "711106": {
+        "psu": "Reguler",
+        "1001143": 608,
+        "1001144": 3913,
+        "progres": {
+          "total": 13,
+          "persen": 100.0,
+          "progres": 13
+        },
+        "status_progress": true
+      },
+      "711107": {
+        "psu": "Reguler",
+        "1001143": 1070,
+        "1001144": 2943,
+        "progres": {
+          "total": 11,
+          "persen": 100.0,
+          "progres": 11
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 126,
+    "progres": 126
+  },
+  "ts": "2024-11-28 00:45:00"
+}

@@ -28,7 +28,7 @@ def fetch_and_save_district_data(selected_province, selected_district):
 def get_districts_for_province(selected_province):
     try:
         # Read district data from the corresponding province file
-        district_file = f"district/{selected_province}/{selected_province}.json"
+        district_file = f"../district/{selected_province}/{selected_province}.json"
         with open(district_file, 'r', encoding='utf-8') as f:
             districts = json.load(f)
         return districts

@@ -1,0 +1,187 @@
+{
+  "mode": "hhcw",
+  "tungsura": {
+    "chart": {
+      "1001102": 36567,
+      "1001103": 2567,
+      "progres": {
+        "total": 178,
+        "persen": 87.64,
+        "progres": 156
+      }
+    },
+    "table": {
+      "650201": {
+        "psu": "Reguler",
+        "1001102": 2986,
+        "1001103": 97,
+        "progres": {
+          "total": 10,
+          "persen": 100.0,
+          "progres": 10
+        },
+        "status_progress": true
+      },
+      "650202": {
+        "psu": "Reguler",
+        "1001102": 10164,
+        "1001103": 951,
+        "progres": {
+          "total": 35,
+          "persen": 94.29,
+          "progres": 33
+        },
+        "status_progress": true
+      },
+      "650203": {
+        "psu": "Reguler",
+        "1001102": 637,
+        "1001103": 22,
+        "progres": {
+          "total": 9,
+          "persen": 77.78,
+          "progres": 7
+        },
+        "status_progress": true
+      },
+      "650204": {
+        "psu": "Reguler",
+        "1001102": 573,
+        "1001103": 8,
+        "progres": {
+          "total": 5,
+          "persen": 80.0,
+          "progres": 4
+        },
+        "status_progress": true
+      },
+      "650205": {
+        "psu": "Reguler",
+        "1001102": 1409,
+        "1001103": 29,
+        "progres": {
+          "total": 7,
+          "persen": 100.0,
+          "progres": 7
+        },
+        "status_progress": true
+      },
+      "650206": {
+        "psu": "Reguler",
+        "1001102": 2651,
+        "1001103": 234,
+        "progres": {
+          "total": 14,
+          "persen": 100.0,
+          "progres": 14
+        },
+        "status_progress": true
+      },
+      "650207": {
+        "psu": "Reguler",
+        "1001102": 6784,
+        "1001103": 464,
+        "progres": {
+          "total": 24,
+          "persen": 100.0,
+          "progres": 24
+        },
+        "status_progress": true
+      },
+      "650208": {
+        "psu": "Reguler",
+        "1001102": 5187,
+        "1001103": 672,
+        "progres": {
+          "total": 19,
+          "persen": 100.0,
+          "progres": 19
+        },
+        "status_progress": true
+      },
+      "650209": {
+        "psu": "Reguler",
+        "1001102": 492,
+        "1001103": 5,
+        "progres": {
+          "total": 6,
+          "persen": 33.33,
+          "progres": 2
+        },
+        "status_progress": true
+      },
+      "650210": {
+        "psu": "Reguler",
+        "1001102": 1274,
+        "1001103": 0,
+        "progres": {
+          "total": 5,
+          "persen": 100.0,
+          "progres": 5
+        },
+        "status_progress": true
+      },
+      "650211": {
+        "psu": "Reguler",
+        "1001102": 676,
+        "1001103": 19,
+        "progres": {
+          "total": 6,
+          "persen": 100.0,
+          "progres": 6
+        },
+        "status_progress": true
+      },
+      "650212": {
+        "psu": "Reguler",
+        "1001102": 760,
+        "1001103": 9,
+        "progres": {
+          "total": 13,
+          "persen": 61.54,
+          "progres": 8
+        },
+        "status_progress": true
+      },
+      "650213": {
+        "psu": "Reguler",
+        "1001102": 1396,
+        "1001103": 25,
+        "progres": {
+          "total": 9,
+          "persen": 66.67,
+          "progres": 6
+        },
+        "status_progress": true
+      },
+      "650214": {
+        "psu": "Reguler",
+        "1001102": 1374,
+        "1001103": 31,
+        "progres": {
+          "total": 10,
+          "persen": 90.0,
+          "progres": 9
+        },
+        "status_progress": true
+      },
+      "650215": {
+        "psu": "Reguler",
+        "1001102": 204,
+        "1001103": 1,
+        "progres": {
+          "total": 6,
+          "persen": 33.33,
+          "progres": 2
+        },
+        "status_progress": true
+      }
+    }
+  },
+  "psu": "Reguler",
+  "progres": {
+    "total": 178,
+    "progres": 156
+  },
+  "ts": "2024-11-28 07:30:00"
+}
