@@ -7,7 +7,7 @@ def fetch_and_save_district_data(selected_province, selected_district):
     url = f"https://sirekappilkada-obj-data.kpu.go.id/pilkada/hhcw/pkwkp/{selected_province}/{selected_district}.json"
     
     # Create directory structure
-    os.makedirs(f'pkwkp/{selected_province}', exist_ok=True)
+    os.makedirs(f'../pkwkp/{selected_province}', exist_ok=True)
     
     try:
         response = requests.get(url)
@@ -15,7 +15,7 @@ def fetch_and_save_district_data(selected_province, selected_district):
         data = response.json()
         
         # Save to JSON file
-        output_path = f"pkwkp/{selected_province}/{selected_district}.json"
+        output_path = f"../pkwkp/{selected_province}/{selected_district}.json"
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
